@@ -1,0 +1,73 @@
+==> torch version: 1.9.0+cu102
+==> cudnn version: 7605
+==> Cmd:
+['train.py', 'gpus=0', 'backbone=CSPDarknet-s', 'num_epochs=300', 'exp_id=coco_CSPDarknet-s_640x640', 'use_amp=True', 'data_num_workers=6', 'batch_size=180']
+==> Opt:
+  activation: relu
+  backbone: CSPDarknet-s
+  basic_lr_per_img: 0.00015625
+  batch_size: 180
+  chunk_sizes: [180]
+  clear: <built-in method clear of EasyDict object at 0x7fcb9ed34900>
+  copy: <built-in method copy of EasyDict object at 0x7fcb9ed34900>
+  cuda_benchmark: True
+  data_dir: /mnt/X/generate_COCO/images
+  data_num_workers: 6
+  dataset_path: /mnt/X/generate_COCO/
+  degrees: 10.0
+  depth_wise: False
+  ema: True
+  enable_mixup: True
+  exp_id: coco_CSPDarknet-s_640x640
+  fromkeys: <built-in method fromkeys of type object at 0x5631889fb700>
+  get: <built-in method get of EasyDict object at 0x7fcb9ed34900>
+  gpus: [0]
+  gpus_str: 0
+  grad_clip: {'max_norm': 35, 'norm_type': 2}
+  input_size: [416, 416]
+  is_dataset_dir: False
+  items: <built-in method items of EasyDict object at 0x7fcb9ed34900>
+  keys: <built-in method keys of EasyDict object at 0x7fcb9ed34900>
+  label_name: ['person', 'motorcycle', 'truck', 'car', 'bus', 'bicycle']
+  load_model: model_best.pth
+  master_batch_size: 180
+  min_lr_ratio: 0.05
+  mixup_prob: 1.0
+  momentum: 0.9
+  mosaic_prob: 1.0
+  nms_thresh: 0.65
+  no_aug_epochs: 30
+  num_classes: 6
+  num_epochs: 300
+  occupy_mem: False
+  perspective: 0.0
+  pop: <bound method EasyDict.pop of {'exp_id': 'coco_CSPDarknet-s_640x640', 'dataset_path': '/mnt/X/generate_COCO/', 'backbone': 'CSPDarknet-s', 'input_size': [416, 416], 'random_size': None, 'test_size': [416, 416], 'gpus': [0], 'batch_size': 180, 'master_batch_size': 180, 'num_epochs': 300, 'label_name': ['person', 'motorcycle', 'truck', 'car', 'bus', 'bicycle'], 'reid_dim': 0, 'tracking_id_nums': None, 'warmup_lr': 0, 'basic_lr_per_img': 0.00015625, 'scheduler': 'yoloxwarmcos', 'no_aug_epochs': 30, 'min_lr_ratio': 0.05, 'weight_decay': 0.0005, 'warmup_epochs': 5, 'depth_wise': False, 'stride': [8, 16, 32], 'activation': 'relu', 'degrees': 10.0, 'translate': 0.1, 'scale': [0.1, 2], 'shear': 2.0, 'perspective': 0.0, 'enable_mixup': True, 'seed': None, 'mosaic_prob': 1.0, 'mixup_prob': 1.0, 'data_num_workers': 6, 'momentum': 0.9, 'vis_thresh': 0.3, 'load_model': 'model_best.pth', 'ema': True, 'grad_clip': {'max_norm': 35, 'norm_type': 2}, 'print_iter': 50, 'val_intervals': 20, 'save_epoch': 20, 'resume': False, 'use_amp': True, 'cuda_benchmark': True, 'nms_thresh': 0.65, 'occupy_mem': False, 'rgb_means': [0.485, 0.456, 0.406], 'std': [0.229, 0.224, 0.225], 'train_ann': '/mnt/X/generate_COCO/annotations/instances_train2017.json', 'val_ann': '/mnt/X/generate_COCO/annotations/instances_val2017.json', 'data_dir': '/mnt/X/generate_COCO/images', 'is_dataset_dir': False, 'num_classes': 6, 'gpus_str': '0', 'chunk_sizes': [180], 'root_dir': '/home/cms/YOLOX-NPU', 'save_dir': '/home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640'}>
+  popitem: <built-in method popitem of EasyDict object at 0x7fcb9ed34900>
+  print_iter: 50
+  random_size: None
+  reid_dim: 0
+  resume: False
+  rgb_means: [0.485, 0.456, 0.406]
+  root_dir: /home/cms/YOLOX-NPU
+  save_dir: /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640
+  save_epoch: 20
+  scale: [0.1, 2]
+  scheduler: yoloxwarmcos
+  seed: None
+  setdefault: <built-in method setdefault of EasyDict object at 0x7fcb9ed34900>
+  shear: 2.0
+  std: [0.229, 0.224, 0.225]
+  stride: [8, 16, 32]
+  test_size: [416, 416]
+  tracking_id_nums: None
+  train_ann: /mnt/X/generate_COCO/annotations/instances_train2017.json
+  translate: 0.1
+  update: <bound method EasyDict.update of {'exp_id': 'coco_CSPDarknet-s_640x640', 'dataset_path': '/mnt/X/generate_COCO/', 'backbone': 'CSPDarknet-s', 'input_size': [416, 416], 'random_size': None, 'test_size': [416, 416], 'gpus': [0], 'batch_size': 180, 'master_batch_size': 180, 'num_epochs': 300, 'label_name': ['person', 'motorcycle', 'truck', 'car', 'bus', 'bicycle'], 'reid_dim': 0, 'tracking_id_nums': None, 'warmup_lr': 0, 'basic_lr_per_img': 0.00015625, 'scheduler': 'yoloxwarmcos', 'no_aug_epochs': 30, 'min_lr_ratio': 0.05, 'weight_decay': 0.0005, 'warmup_epochs': 5, 'depth_wise': False, 'stride': [8, 16, 32], 'activation': 'relu', 'degrees': 10.0, 'translate': 0.1, 'scale': [0.1, 2], 'shear': 2.0, 'perspective': 0.0, 'enable_mixup': True, 'seed': None, 'mosaic_prob': 1.0, 'mixup_prob': 1.0, 'data_num_workers': 6, 'momentum': 0.9, 'vis_thresh': 0.3, 'load_model': 'model_best.pth', 'ema': True, 'grad_clip': {'max_norm': 35, 'norm_type': 2}, 'print_iter': 50, 'val_intervals': 20, 'save_epoch': 20, 'resume': False, 'use_amp': True, 'cuda_benchmark': True, 'nms_thresh': 0.65, 'occupy_mem': False, 'rgb_means': [0.485, 0.456, 0.406], 'std': [0.229, 0.224, 0.225], 'train_ann': '/mnt/X/generate_COCO/annotations/instances_train2017.json', 'val_ann': '/mnt/X/generate_COCO/annotations/instances_val2017.json', 'data_dir': '/mnt/X/generate_COCO/images', 'is_dataset_dir': False, 'num_classes': 6, 'gpus_str': '0', 'chunk_sizes': [180], 'root_dir': '/home/cms/YOLOX-NPU', 'save_dir': '/home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640'}>
+  use_amp: True
+  val_ann: /mnt/X/generate_COCO/annotations/instances_val2017.json
+  val_intervals: 20
+  values: <built-in method values of EasyDict object at 0x7fcb9ed34900>
+  vis_thresh: 0.3
+  warmup_epochs: 5
+  warmup_lr: 0
+  weight_decay: 0.0005

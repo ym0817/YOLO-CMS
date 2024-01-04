@@ -1,0 +1,846 @@
+2023-12-14-14-35: coco_CSPDarknet-s_640x640| train: total_epoch[1/300] batch[50/389] |size: 180x3x416x416 |lr: 0.00001859 |loss 56.7596 |conf_loss 52.6501 |cls_loss 1.2679 |iou_loss 2.8416 |num_fg 2.8845 
+2023-12-14-14-37: coco_CSPDarknet-s_640x640| train: total_epoch[1/300] batch[100/389] |size: 180x3x416x416 |lr: 0.00007435 |loss 38.5033 |conf_loss 34.4066 |cls_loss 1.2724 |iou_loss 2.8243 |num_fg 2.9206 
+2023-12-14-14-39: coco_CSPDarknet-s_640x640| train: total_epoch[1/300] batch[150/389] |size: 180x3x416x416 |lr: 0.00016728 |loss 29.2554 |conf_loss 25.1823 |cls_loss 1.2749 |iou_loss 2.7982 |num_fg 2.9699 
+2023-12-14-14-42: coco_CSPDarknet-s_640x640| train: total_epoch[1/300] batch[200/389] |size: 180x3x416x416 |lr: 0.00029738 |loss 24.2632 |conf_loss 20.2256 |cls_loss 1.2736 |iou_loss 2.7641 |num_fg 3.0280 
+2023-12-14-14-44: coco_CSPDarknet-s_640x640| train: total_epoch[1/300] batch[250/389] |size: 180x3x416x416 |lr: 0.00046466 |loss 21.2085 |conf_loss 17.2166 |cls_loss 1.2641 |iou_loss 2.7277 |num_fg 3.0819 
+2023-12-14-14-46: coco_CSPDarknet-s_640x640| train: total_epoch[1/300] batch[300/389] |size: 180x3x416x416 |lr: 0.00066911 |loss 19.1413 |conf_loss 15.1959 |cls_loss 1.2505 |iou_loss 2.6950 |num_fg 3.1304 
+2023-12-14-14-48: coco_CSPDarknet-s_640x640| train: total_epoch[1/300] batch[350/389] |size: 180x3x416x416 |lr: 0.00091073 |loss 17.6390 |conf_loss 13.7332 |cls_loss 1.2363 |iou_loss 2.6695 |num_fg 3.1718 
+2023-12-14-14-50: train epoch: 1 |loss 16.719863 | conf_loss 12.841248 | cls_loss 1.225961 | iou_loss 2.652654 | num_fg 3.201689 | time 17.466667 | 
+2023-12-14-14-50: epoch 1, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-14-52: coco_CSPDarknet-s_640x640| train: total_epoch[2/300] batch[50/389] |size: 180x3x416x416 |lr: 0.00143279 |loss 8.3204 |conf_loss 4.7238 |cls_loss 1.1241 |iou_loss 2.4724 |num_fg 3.5414 
+2023-12-14-14-54: coco_CSPDarknet-s_640x640| train: total_epoch[2/300] batch[100/389] |size: 180x3x416x416 |lr: 0.00177775 |loss 8.2589 |conf_loss 4.6795 |cls_loss 1.1259 |iou_loss 2.4535 |num_fg 3.5707 
+2023-12-14-14-57: coco_CSPDarknet-s_640x640| train: total_epoch[2/300] batch[150/389] |size: 180x3x416x416 |lr: 0.00215989 |loss 8.1879 |conf_loss 4.6268 |cls_loss 1.1286 |iou_loss 2.4326 |num_fg 3.6086 
+2023-12-14-14-59: coco_CSPDarknet-s_640x640| train: total_epoch[2/300] batch[200/389] |size: 180x3x416x416 |lr: 0.00257919 |loss 8.1253 |conf_loss 4.5855 |cls_loss 1.1280 |iou_loss 2.4119 |num_fg 3.6486 
+2023-12-14-15-01: coco_CSPDarknet-s_640x640| train: total_epoch[2/300] batch[250/389] |size: 180x3x416x416 |lr: 0.00303567 |loss 8.0674 |conf_loss 4.5480 |cls_loss 1.1273 |iou_loss 2.3922 |num_fg 3.6848 
+2023-12-14-15-03: coco_CSPDarknet-s_640x640| train: total_epoch[2/300] batch[300/389] |size: 180x3x416x416 |lr: 0.00352933 |loss 8.0118 |conf_loss 4.5125 |cls_loss 1.1251 |iou_loss 2.3742 |num_fg 3.7183 
+2023-12-14-15-05: coco_CSPDarknet-s_640x640| train: total_epoch[2/300] batch[350/389] |size: 180x3x416x416 |lr: 0.00406015 |loss 7.9583 |conf_loss 4.4786 |cls_loss 1.1230 |iou_loss 2.3567 |num_fg 3.7505 
+2023-12-14-15-07: train epoch: 2 |loss 7.914911 | conf_loss 4.450738 | cls_loss 1.120615 | iou_loss 2.343557 | num_fg 3.776801 | time 17.250000 | 
+2023-12-14-15-07: epoch 2, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-15-09: coco_CSPDarknet-s_640x640| train: total_epoch[3/300] batch[50/389] |size: 180x3x416x416 |lr: 0.00509699 |loss 7.4265 |conf_loss 4.1206 |cls_loss 1.0991 |iou_loss 2.2068 |num_fg 4.0465 
+2023-12-14-15-12: coco_CSPDarknet-s_640x640| train: total_epoch[3/300] batch[100/389] |size: 180x3x416x416 |lr: 0.00573116 |loss 7.3573 |conf_loss 4.0791 |cls_loss 1.0855 |iou_loss 2.1927 |num_fg 4.0887 
+2023-12-14-15-14: coco_CSPDarknet-s_640x640| train: total_epoch[3/300] batch[150/389] |size: 180x3x416x416 |lr: 0.00640250 |loss 7.3008 |conf_loss 4.0398 |cls_loss 1.0796 |iou_loss 2.1813 |num_fg 4.1136 
+2023-12-14-15-16: coco_CSPDarknet-s_640x640| train: total_epoch[3/300] batch[200/389] |size: 180x3x416x416 |lr: 0.00711101 |loss 7.2451 |conf_loss 4.0013 |cls_loss 1.0737 |iou_loss 2.1700 |num_fg 4.1393 
+2023-12-14-15-18: coco_CSPDarknet-s_640x640| train: total_epoch[3/300] batch[250/389] |size: 180x3x416x416 |lr: 0.00785669 |loss 7.1919 |conf_loss 3.9624 |cls_loss 1.0698 |iou_loss 2.1597 |num_fg 4.1619 
+2023-12-14-15-20: coco_CSPDarknet-s_640x640| train: total_epoch[3/300] batch[300/389] |size: 180x3x416x416 |lr: 0.00863954 |loss 7.1429 |conf_loss 3.9282 |cls_loss 1.0659 |iou_loss 2.1488 |num_fg 4.1876 
+2023-12-14-15-23: coco_CSPDarknet-s_640x640| train: total_epoch[3/300] batch[350/389] |size: 180x3x416x416 |lr: 0.00945957 |loss 7.0946 |conf_loss 3.8932 |cls_loss 1.0626 |iou_loss 2.1388 |num_fg 4.2096 
+2023-12-14-15-24: train epoch: 3 |loss 7.057625 | conf_loss 3.866862 | cls_loss 1.059475 | iou_loss 2.131287 | num_fg 4.226327 | time 17.366667 | 
+2023-12-14-15-24: epoch 3, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-15-27: coco_CSPDarknet-s_640x640| train: total_epoch[4/300] batch[50/389] |size: 180x3x416x416 |lr: 0.01101120 |loss 6.6837 |conf_loss 3.6022 |cls_loss 1.0282 |iou_loss 2.0534 |num_fg 4.3878 
+2023-12-14-15-29: coco_CSPDarknet-s_640x640| train: total_epoch[4/300] batch[100/389] |size: 180x3x416x416 |lr: 0.01193456 |loss 6.6422 |conf_loss 3.5760 |cls_loss 1.0221 |iou_loss 2.0441 |num_fg 4.4107 
+2023-12-14-15-31: coco_CSPDarknet-s_640x640| train: total_epoch[4/300] batch[150/389] |size: 180x3x416x416 |lr: 0.01289510 |loss 6.6158 |conf_loss 3.5571 |cls_loss 1.0207 |iou_loss 2.0380 |num_fg 4.4214 
+2023-12-14-15-34: coco_CSPDarknet-s_640x640| train: total_epoch[4/300] batch[200/389] |size: 180x3x416x416 |lr: 0.01389282 |loss 6.5878 |conf_loss 3.5376 |cls_loss 1.0180 |iou_loss 2.0322 |num_fg 4.4310 
+2023-12-14-15-36: coco_CSPDarknet-s_640x640| train: total_epoch[4/300] batch[250/389] |size: 180x3x416x416 |lr: 0.01492770 |loss 6.5521 |conf_loss 3.5113 |cls_loss 1.0151 |iou_loss 2.0257 |num_fg 4.4460 
+2023-12-14-15-38: coco_CSPDarknet-s_640x640| train: total_epoch[4/300] batch[300/389] |size: 180x3x416x416 |lr: 0.01599976 |loss 6.5291 |conf_loss 3.4954 |cls_loss 1.0125 |iou_loss 2.0212 |num_fg 4.4573 
+2023-12-14-15-40: coco_CSPDarknet-s_640x640| train: total_epoch[4/300] batch[350/389] |size: 180x3x416x416 |lr: 0.01710899 |loss 6.5002 |conf_loss 3.4755 |cls_loss 1.0092 |iou_loss 2.0155 |num_fg 4.4716 
+2023-12-14-15-42: train epoch: 4 |loss 6.477820 | conf_loss 3.460138 | cls_loss 1.006237 | iou_loss 2.011444 | num_fg 4.481644 | time 17.350000 | 
+2023-12-14-15-42: epoch 4, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-15-44: coco_CSPDarknet-s_640x640| train: total_epoch[5/300] batch[50/389] |size: 180x3x416x416 |lr: 0.01917540 |loss 6.2170 |conf_loss 3.2763 |cls_loss 0.9796 |iou_loss 1.9611 |num_fg 4.5915 
+2023-12-14-15-46: coco_CSPDarknet-s_640x640| train: total_epoch[5/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02038797 |loss 6.1824 |conf_loss 3.2533 |cls_loss 0.9729 |iou_loss 1.9562 |num_fg 4.6018 
+2023-12-14-15-49: coco_CSPDarknet-s_640x640| train: total_epoch[5/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02163771 |loss 6.1537 |conf_loss 3.2320 |cls_loss 0.9707 |iou_loss 1.9510 |num_fg 4.6152 
+2023-12-14-15-51: coco_CSPDarknet-s_640x640| train: total_epoch[5/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02292463 |loss 6.1386 |conf_loss 3.2228 |cls_loss 0.9694 |iou_loss 1.9464 |num_fg 4.6252 
+2023-12-14-15-53: coco_CSPDarknet-s_640x640| train: total_epoch[5/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02424872 |loss 6.1138 |conf_loss 3.2046 |cls_loss 0.9665 |iou_loss 1.9427 |num_fg 4.6319 
+2023-12-14-15-55: coco_CSPDarknet-s_640x640| train: total_epoch[5/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02560998 |loss 6.0901 |conf_loss 3.1886 |cls_loss 0.9631 |iou_loss 1.9383 |num_fg 4.6400 
+2023-12-14-15-57: coco_CSPDarknet-s_640x640| train: total_epoch[5/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02700842 |loss 6.0673 |conf_loss 3.1722 |cls_loss 0.9604 |iou_loss 1.9348 |num_fg 4.6454 
+2023-12-14-15-59: train epoch: 5 |loss 6.048063 | conf_loss 3.159352 | cls_loss 0.957845 | iou_loss 1.930865 | num_fg 4.654171 | time 17.316667 | 
+2023-12-14-15-59: epoch 5, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-16-02: coco_CSPDarknet-s_640x640| train: total_epoch[6/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02812498 |loss 5.8513 |conf_loss 3.0221 |cls_loss 0.9347 |iou_loss 1.8945 |num_fg 4.7339 
+2023-12-14-16-04: coco_CSPDarknet-s_640x640| train: total_epoch[6/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02812494 |loss 5.8284 |conf_loss 3.0057 |cls_loss 0.9334 |iou_loss 1.8893 |num_fg 4.7394 
+2023-12-14-16-06: coco_CSPDarknet-s_640x640| train: total_epoch[6/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02812486 |loss 5.8032 |conf_loss 2.9877 |cls_loss 0.9299 |iou_loss 1.8857 |num_fg 4.7451 
+2023-12-14-16-08: coco_CSPDarknet-s_640x640| train: total_epoch[6/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02812475 |loss 5.7779 |conf_loss 2.9726 |cls_loss 0.9280 |iou_loss 1.8773 |num_fg 4.7654 
+2023-12-14-16-11: coco_CSPDarknet-s_640x640| train: total_epoch[6/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02812461 |loss 5.7574 |conf_loss 2.9596 |cls_loss 0.9261 |iou_loss 1.8717 |num_fg 4.7760 
+2023-12-14-16-13: coco_CSPDarknet-s_640x640| train: total_epoch[6/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02812444 |loss 5.7352 |conf_loss 2.9448 |cls_loss 0.9242 |iou_loss 1.8662 |num_fg 4.7869 
+2023-12-14-16-15: coco_CSPDarknet-s_640x640| train: total_epoch[6/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02812424 |loss 5.7135 |conf_loss 2.9316 |cls_loss 0.9211 |iou_loss 1.8608 |num_fg 4.8005 
+2023-12-14-16-17: train epoch: 6 |loss 5.699297 | conf_loss 2.922623 | cls_loss 0.919079 | iou_loss 1.857595 | num_fg 4.807931 | time 17.466667 | 
+2023-12-14-16-17: epoch 6, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-16-19: coco_CSPDarknet-s_640x640| train: total_epoch[7/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02812380 |loss 5.5417 |conf_loss 2.8197 |cls_loss 0.9041 |iou_loss 1.8179 |num_fg 4.8905 
+2023-12-14-16-21: coco_CSPDarknet-s_640x640| train: total_epoch[7/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02812352 |loss 5.5272 |conf_loss 2.8134 |cls_loss 0.8989 |iou_loss 1.8149 |num_fg 4.8933 
+2023-12-14-16-24: coco_CSPDarknet-s_640x640| train: total_epoch[7/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02812320 |loss 5.5182 |conf_loss 2.8068 |cls_loss 0.8969 |iou_loss 1.8145 |num_fg 4.8932 
+2023-12-14-16-26: coco_CSPDarknet-s_640x640| train: total_epoch[7/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02812285 |loss 5.5010 |conf_loss 2.7967 |cls_loss 0.8944 |iou_loss 1.8100 |num_fg 4.9035 
+2023-12-14-16-28: coco_CSPDarknet-s_640x640| train: total_epoch[7/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02812247 |loss 5.4895 |conf_loss 2.7875 |cls_loss 0.8936 |iou_loss 1.8084 |num_fg 4.9080 
+2023-12-14-16-30: coco_CSPDarknet-s_640x640| train: total_epoch[7/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02812205 |loss 5.4712 |conf_loss 2.7776 |cls_loss 0.8910 |iou_loss 1.8026 |num_fg 4.9195 
+2023-12-14-16-32: coco_CSPDarknet-s_640x640| train: total_epoch[7/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02812161 |loss 5.4626 |conf_loss 2.7725 |cls_loss 0.8902 |iou_loss 1.7998 |num_fg 4.9253 
+2023-12-14-16-34: train epoch: 7 |loss 5.452161 | conf_loss 2.765164 | cls_loss 0.889317 | iou_loss 1.797679 | num_fg 4.930973 | time 17.433333 | 
+2023-12-14-16-34: epoch 7, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-16-37: coco_CSPDarknet-s_640x640| train: total_epoch[8/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02812075 |loss 5.3191 |conf_loss 2.6795 |cls_loss 0.8724 |iou_loss 1.7672 |num_fg 4.9996 
+2023-12-14-16-39: coco_CSPDarknet-s_640x640| train: total_epoch[8/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02812022 |loss 5.3230 |conf_loss 2.6842 |cls_loss 0.8722 |iou_loss 1.7666 |num_fg 5.0002 
+2023-12-14-16-41: coco_CSPDarknet-s_640x640| train: total_epoch[8/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02811966 |loss 5.3187 |conf_loss 2.6819 |cls_loss 0.8718 |iou_loss 1.7651 |num_fg 5.0048 
+2023-12-14-16-43: coco_CSPDarknet-s_640x640| train: total_epoch[8/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02811907 |loss 5.3064 |conf_loss 2.6741 |cls_loss 0.8709 |iou_loss 1.7614 |num_fg 5.0128 
+2023-12-14-16-45: coco_CSPDarknet-s_640x640| train: total_epoch[8/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02811844 |loss 5.2978 |conf_loss 2.6685 |cls_loss 0.8699 |iou_loss 1.7594 |num_fg 5.0162 
+2023-12-14-16-48: coco_CSPDarknet-s_640x640| train: total_epoch[8/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02811779 |loss 5.2870 |conf_loss 2.6629 |cls_loss 0.8680 |iou_loss 1.7561 |num_fg 5.0249 
+2023-12-14-16-50: coco_CSPDarknet-s_640x640| train: total_epoch[8/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02811711 |loss 5.2770 |conf_loss 2.6562 |cls_loss 0.8666 |iou_loss 1.7542 |num_fg 5.0286 
+2023-12-14-16-52: train epoch: 8 |loss 5.268336 | conf_loss 2.649669 | cls_loss 0.866035 | iou_loss 1.752632 | num_fg 5.030547 | time 17.450000 | 
+2023-12-14-16-52: epoch 8, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-16-54: coco_CSPDarknet-s_640x640| train: total_epoch[9/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02811581 |loss 5.1674 |conf_loss 2.5852 |cls_loss 0.8535 |iou_loss 1.7288 |num_fg 5.0750 
+2023-12-14-16-56: coco_CSPDarknet-s_640x640| train: total_epoch[9/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02811504 |loss 5.1589 |conf_loss 2.5819 |cls_loss 0.8513 |iou_loss 1.7256 |num_fg 5.0877 
+2023-12-14-16-58: coco_CSPDarknet-s_640x640| train: total_epoch[9/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02811424 |loss 5.1539 |conf_loss 2.5776 |cls_loss 0.8514 |iou_loss 1.7249 |num_fg 5.0937 
+2023-12-14-17-01: coco_CSPDarknet-s_640x640| train: total_epoch[9/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02811341 |loss 5.1550 |conf_loss 2.5771 |cls_loss 0.8522 |iou_loss 1.7258 |num_fg 5.0937 
+2023-12-14-17-03: coco_CSPDarknet-s_640x640| train: total_epoch[9/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02811255 |loss 5.1491 |conf_loss 2.5733 |cls_loss 0.8515 |iou_loss 1.7243 |num_fg 5.0961 
+2023-12-14-17-05: coco_CSPDarknet-s_640x640| train: total_epoch[9/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02811165 |loss 5.1457 |conf_loss 2.5703 |cls_loss 0.8516 |iou_loss 1.7239 |num_fg 5.0964 
+2023-12-14-17-07: coco_CSPDarknet-s_640x640| train: total_epoch[9/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02811073 |loss 5.1418 |conf_loss 2.5684 |cls_loss 0.8509 |iou_loss 1.7226 |num_fg 5.0976 
+2023-12-14-17-09: train epoch: 9 |loss 5.136230 | conf_loss 2.564529 | cls_loss 0.850517 | iou_loss 1.721184 | num_fg 5.099755 | time 17.300000 | 
+2023-12-14-17-09: epoch 9, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-17-11: coco_CSPDarknet-s_640x640| train: total_epoch[10/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02810900 |loss 5.0803 |conf_loss 2.5310 |cls_loss 0.8404 |iou_loss 1.7088 |num_fg 5.1324 
+2023-12-14-17-14: coco_CSPDarknet-s_640x640| train: total_epoch[10/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02810799 |loss 5.0691 |conf_loss 2.5227 |cls_loss 0.8405 |iou_loss 1.7058 |num_fg 5.1354 
+2023-12-14-17-16: coco_CSPDarknet-s_640x640| train: total_epoch[10/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02810695 |loss 5.0492 |conf_loss 2.5076 |cls_loss 0.8389 |iou_loss 1.7027 |num_fg 5.1401 
+2023-12-14-17-18: coco_CSPDarknet-s_640x640| train: total_epoch[10/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02810587 |loss 5.0490 |conf_loss 2.5077 |cls_loss 0.8390 |iou_loss 1.7023 |num_fg 5.1422 
+2023-12-14-17-20: coco_CSPDarknet-s_640x640| train: total_epoch[10/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02810477 |loss 5.0416 |conf_loss 2.5034 |cls_loss 0.8381 |iou_loss 1.7001 |num_fg 5.1468 
+2023-12-14-17-22: coco_CSPDarknet-s_640x640| train: total_epoch[10/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02810363 |loss 5.0370 |conf_loss 2.5004 |cls_loss 0.8379 |iou_loss 1.6986 |num_fg 5.1494 
+2023-12-14-17-25: coco_CSPDarknet-s_640x640| train: total_epoch[10/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02810247 |loss 5.0312 |conf_loss 2.4968 |cls_loss 0.8372 |iou_loss 1.6972 |num_fg 5.1526 
+2023-12-14-17-26: train epoch: 10 |loss 5.027249 | conf_loss 2.493891 | cls_loss 0.836868 | iou_loss 1.696490 | num_fg 5.154955 | time 17.366667 | 
+2023-12-14-17-26: epoch 10, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-17-29: coco_CSPDarknet-s_640x640| train: total_epoch[11/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02810032 |loss 4.9685 |conf_loss 2.4625 |cls_loss 0.8285 |iou_loss 1.6776 |num_fg 5.1954 
+2023-12-14-17-31: coco_CSPDarknet-s_640x640| train: total_epoch[11/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02809906 |loss 4.9711 |conf_loss 2.4662 |cls_loss 0.8293 |iou_loss 1.6757 |num_fg 5.1991 
+2023-12-14-17-33: coco_CSPDarknet-s_640x640| train: total_epoch[11/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02809778 |loss 4.9681 |conf_loss 2.4636 |cls_loss 0.8293 |iou_loss 1.6751 |num_fg 5.1987 
+2023-12-14-17-35: coco_CSPDarknet-s_640x640| train: total_epoch[11/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02809647 |loss 4.9624 |conf_loss 2.4584 |cls_loss 0.8283 |iou_loss 1.6757 |num_fg 5.1984 
+2023-12-14-17-38: coco_CSPDarknet-s_640x640| train: total_epoch[11/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02809512 |loss 4.9565 |conf_loss 2.4536 |cls_loss 0.8275 |iou_loss 1.6754 |num_fg 5.1991 
+2023-12-14-17-40: coco_CSPDarknet-s_640x640| train: total_epoch[11/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02809374 |loss 4.9542 |conf_loss 2.4533 |cls_loss 0.8268 |iou_loss 1.6742 |num_fg 5.2006 
+2023-12-14-17-42: coco_CSPDarknet-s_640x640| train: total_epoch[11/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02809234 |loss 4.9472 |conf_loss 2.4477 |cls_loss 0.8261 |iou_loss 1.6734 |num_fg 5.2026 
+2023-12-14-17-44: train epoch: 11 |loss 4.940587 | conf_loss 2.444218 | cls_loss 0.824889 | iou_loss 1.671480 | num_fg 5.208407 | time 17.300000 | 
+2023-12-14-17-44: epoch 11, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-17-46: coco_CSPDarknet-s_640x640| train: total_epoch[12/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02808976 |loss 4.9036 |conf_loss 2.4164 |cls_loss 0.8227 |iou_loss 1.6644 |num_fg 5.2132 
+2023-12-14-17-48: coco_CSPDarknet-s_640x640| train: total_epoch[12/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02808826 |loss 4.9054 |conf_loss 2.4202 |cls_loss 0.8212 |iou_loss 1.6641 |num_fg 5.2085 
+2023-12-14-17-50: coco_CSPDarknet-s_640x640| train: total_epoch[12/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02808674 |loss 4.8913 |conf_loss 2.4117 |cls_loss 0.8198 |iou_loss 1.6597 |num_fg 5.2192 
+2023-12-14-17-53: coco_CSPDarknet-s_640x640| train: total_epoch[12/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02808518 |loss 4.8859 |conf_loss 2.4080 |cls_loss 0.8187 |iou_loss 1.6592 |num_fg 5.2166 
+2023-12-14-17-55: coco_CSPDarknet-s_640x640| train: total_epoch[12/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02808360 |loss 4.8841 |conf_loss 2.4074 |cls_loss 0.8181 |iou_loss 1.6586 |num_fg 5.2217 
+2023-12-14-17-57: coco_CSPDarknet-s_640x640| train: total_epoch[12/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02808198 |loss 4.8753 |conf_loss 2.4035 |cls_loss 0.8161 |iou_loss 1.6556 |num_fg 5.2296 
+2023-12-14-17-59: coco_CSPDarknet-s_640x640| train: total_epoch[12/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02808033 |loss 4.8702 |conf_loss 2.4007 |cls_loss 0.8153 |iou_loss 1.6542 |num_fg 5.2364 
+2023-12-14-18-01: train epoch: 12 |loss 4.867025 | conf_loss 2.399550 | cls_loss 0.814785 | iou_loss 1.652691 | num_fg 5.240852 | time 17.316667 | 
+2023-12-14-18-01: epoch 12, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-18-03: coco_CSPDarknet-s_640x640| train: total_epoch[13/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02807732 |loss 4.8299 |conf_loss 2.3727 |cls_loss 0.8141 |iou_loss 1.6431 |num_fg 5.2676 
+2023-12-14-18-06: coco_CSPDarknet-s_640x640| train: total_epoch[13/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02807559 |loss 4.8246 |conf_loss 2.3709 |cls_loss 0.8114 |iou_loss 1.6423 |num_fg 5.2698 
+2023-12-14-18-08: coco_CSPDarknet-s_640x640| train: total_epoch[13/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02807382 |loss 4.8166 |conf_loss 2.3671 |cls_loss 0.8096 |iou_loss 1.6399 |num_fg 5.2745 
+2023-12-14-18-10: coco_CSPDarknet-s_640x640| train: total_epoch[13/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02807203 |loss 4.8119 |conf_loss 2.3635 |cls_loss 0.8084 |iou_loss 1.6400 |num_fg 5.2705 
+2023-12-14-18-12: coco_CSPDarknet-s_640x640| train: total_epoch[13/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02807020 |loss 4.8064 |conf_loss 2.3594 |cls_loss 0.8075 |iou_loss 1.6395 |num_fg 5.2720 
+2023-12-14-18-14: coco_CSPDarknet-s_640x640| train: total_epoch[13/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02806835 |loss 4.8004 |conf_loss 2.3558 |cls_loss 0.8071 |iou_loss 1.6375 |num_fg 5.2764 
+2023-12-14-18-16: coco_CSPDarknet-s_640x640| train: total_epoch[13/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02806646 |loss 4.7984 |conf_loss 2.3550 |cls_loss 0.8065 |iou_loss 1.6369 |num_fg 5.2792 
+2023-12-14-18-18: train epoch: 13 |loss 4.791959 | conf_loss 2.350916 | cls_loss 0.805569 | iou_loss 1.635474 | num_fg 5.280979 | time 17.283333 | 
+2023-12-14-18-18: epoch 13, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-18-21: coco_CSPDarknet-s_640x640| train: total_epoch[14/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02806302 |loss 4.7723 |conf_loss 2.3412 |cls_loss 0.7991 |iou_loss 1.6320 |num_fg 5.2770 
+2023-12-14-18-23: coco_CSPDarknet-s_640x640| train: total_epoch[14/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02806105 |loss 4.7578 |conf_loss 2.3305 |cls_loss 0.7982 |iou_loss 1.6292 |num_fg 5.2893 
+2023-12-14-18-25: coco_CSPDarknet-s_640x640| train: total_epoch[14/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02805904 |loss 4.7602 |conf_loss 2.3316 |cls_loss 0.7999 |iou_loss 1.6287 |num_fg 5.2914 
+2023-12-14-18-27: coco_CSPDarknet-s_640x640| train: total_epoch[14/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02805701 |loss 4.7564 |conf_loss 2.3297 |cls_loss 0.8000 |iou_loss 1.6267 |num_fg 5.2954 
+2023-12-14-18-29: coco_CSPDarknet-s_640x640| train: total_epoch[14/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02805494 |loss 4.7511 |conf_loss 2.3268 |cls_loss 0.7996 |iou_loss 1.6247 |num_fg 5.3001 
+2023-12-14-18-32: coco_CSPDarknet-s_640x640| train: total_epoch[14/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02805284 |loss 4.7502 |conf_loss 2.3257 |cls_loss 0.8000 |iou_loss 1.6245 |num_fg 5.3014 
+2023-12-14-18-34: coco_CSPDarknet-s_640x640| train: total_epoch[14/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02805071 |loss 4.7465 |conf_loss 2.3233 |cls_loss 0.7999 |iou_loss 1.6234 |num_fg 5.3035 
+2023-12-14-18-35: train epoch: 14 |loss 4.745351 | conf_loss 2.322886 | cls_loss 0.799449 | iou_loss 1.623016 | num_fg 5.304446 | time 17.266667 | 
+2023-12-14-18-35: epoch 14, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-18-38: coco_CSPDarknet-s_640x640| train: total_epoch[15/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02804685 |loss 4.7222 |conf_loss 2.3092 |cls_loss 0.7998 |iou_loss 1.6131 |num_fg 5.3315 
+2023-12-14-18-40: coco_CSPDarknet-s_640x640| train: total_epoch[15/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02804463 |loss 4.7205 |conf_loss 2.3080 |cls_loss 0.7970 |iou_loss 1.6155 |num_fg 5.3259 
+2023-12-14-18-42: coco_CSPDarknet-s_640x640| train: total_epoch[15/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02804239 |loss 4.7166 |conf_loss 2.3079 |cls_loss 0.7948 |iou_loss 1.6139 |num_fg 5.3324 
+2023-12-14-18-45: coco_CSPDarknet-s_640x640| train: total_epoch[15/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02804011 |loss 4.7178 |conf_loss 2.3078 |cls_loss 0.7945 |iou_loss 1.6155 |num_fg 5.3274 
+2023-12-14-18-47: coco_CSPDarknet-s_640x640| train: total_epoch[15/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02803781 |loss 4.7104 |conf_loss 2.3039 |cls_loss 0.7935 |iou_loss 1.6130 |num_fg 5.3306 
+2023-12-14-18-49: coco_CSPDarknet-s_640x640| train: total_epoch[15/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02803547 |loss 4.7051 |conf_loss 2.3001 |cls_loss 0.7931 |iou_loss 1.6118 |num_fg 5.3306 
+2023-12-14-18-51: coco_CSPDarknet-s_640x640| train: total_epoch[15/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02803310 |loss 4.7016 |conf_loss 2.2982 |cls_loss 0.7924 |iou_loss 1.6110 |num_fg 5.3340 
+2023-12-14-18-53: train epoch: 15 |loss 4.699853 | conf_loss 2.297466 | cls_loss 0.792360 | iou_loss 1.610027 | num_fg 5.335074 | time 17.383333 | 
+2023-12-14-18-53: epoch 15, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-18-55: coco_CSPDarknet-s_640x640| train: total_epoch[16/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02802881 |loss 4.6650 |conf_loss 2.2806 |cls_loss 0.7879 |iou_loss 1.5965 |num_fg 5.3632 
+2023-12-14-18-58: coco_CSPDarknet-s_640x640| train: total_epoch[16/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02802635 |loss 4.6690 |conf_loss 2.2813 |cls_loss 0.7891 |iou_loss 1.5986 |num_fg 5.3599 
+2023-12-14-19-00: coco_CSPDarknet-s_640x640| train: total_epoch[16/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02802387 |loss 4.6696 |conf_loss 2.2813 |cls_loss 0.7891 |iou_loss 1.5992 |num_fg 5.3560 
+2023-12-14-19-02: coco_CSPDarknet-s_640x640| train: total_epoch[16/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02802135 |loss 4.6729 |conf_loss 2.2827 |cls_loss 0.7894 |iou_loss 1.6008 |num_fg 5.3511 
+2023-12-14-19-04: coco_CSPDarknet-s_640x640| train: total_epoch[16/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02801881 |loss 4.6687 |conf_loss 2.2788 |cls_loss 0.7889 |iou_loss 1.6010 |num_fg 5.3499 
+2023-12-14-19-06: coco_CSPDarknet-s_640x640| train: total_epoch[16/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02801623 |loss 4.6681 |conf_loss 2.2784 |cls_loss 0.7889 |iou_loss 1.6008 |num_fg 5.3530 
+2023-12-14-19-09: coco_CSPDarknet-s_640x640| train: total_epoch[16/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02801362 |loss 4.6613 |conf_loss 2.2739 |cls_loss 0.7885 |iou_loss 1.5989 |num_fg 5.3564 
+2023-12-14-19-10: train epoch: 16 |loss 4.657786 | conf_loss 2.272062 | cls_loss 0.787907 | iou_loss 1.597817 | num_fg 5.358210 | time 17.383333 | 
+2023-12-14-19-10: epoch 16, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-19-13: coco_CSPDarknet-s_640x640| train: total_epoch[17/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02800891 |loss 4.6266 |conf_loss 2.2571 |cls_loss 0.7823 |iou_loss 1.5871 |num_fg 5.3742 
+2023-12-14-19-15: coco_CSPDarknet-s_640x640| train: total_epoch[17/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02800621 |loss 4.6387 |conf_loss 2.2626 |cls_loss 0.7851 |iou_loss 1.5910 |num_fg 5.3685 
+2023-12-14-19-17: coco_CSPDarknet-s_640x640| train: total_epoch[17/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02800349 |loss 4.6356 |conf_loss 2.2616 |cls_loss 0.7838 |iou_loss 1.5902 |num_fg 5.3734 
+2023-12-14-19-19: coco_CSPDarknet-s_640x640| train: total_epoch[17/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02800073 |loss 4.6296 |conf_loss 2.2574 |cls_loss 0.7825 |iou_loss 1.5897 |num_fg 5.3743 
+2023-12-14-19-22: coco_CSPDarknet-s_640x640| train: total_epoch[17/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02799795 |loss 4.6294 |conf_loss 2.2555 |cls_loss 0.7829 |iou_loss 1.5910 |num_fg 5.3731 
+2023-12-14-19-24: coco_CSPDarknet-s_640x640| train: total_epoch[17/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02799513 |loss 4.6238 |conf_loss 2.2515 |cls_loss 0.7826 |iou_loss 1.5897 |num_fg 5.3759 
+2023-12-14-19-26: coco_CSPDarknet-s_640x640| train: total_epoch[17/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02799229 |loss 4.6214 |conf_loss 2.2496 |cls_loss 0.7820 |iou_loss 1.5898 |num_fg 5.3765 
+2023-12-14-19-28: train epoch: 17 |loss 4.618932 | conf_loss 2.247829 | cls_loss 0.782053 | iou_loss 1.589050 | num_fg 5.377892 | time 17.316667 | 
+2023-12-14-19-28: epoch 17, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-19-30: coco_CSPDarknet-s_640x640| train: total_epoch[18/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02798714 |loss 4.6102 |conf_loss 2.2438 |cls_loss 0.7820 |iou_loss 1.5843 |num_fg 5.3856 
+2023-12-14-19-32: coco_CSPDarknet-s_640x640| train: total_epoch[18/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02798421 |loss 4.6057 |conf_loss 2.2395 |cls_loss 0.7812 |iou_loss 1.5850 |num_fg 5.3830 
+2023-12-14-19-34: coco_CSPDarknet-s_640x640| train: total_epoch[18/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02798125 |loss 4.5976 |conf_loss 2.2330 |cls_loss 0.7797 |iou_loss 1.5850 |num_fg 5.3842 
+2023-12-14-19-37: coco_CSPDarknet-s_640x640| train: total_epoch[18/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02797825 |loss 4.5965 |conf_loss 2.2357 |cls_loss 0.7784 |iou_loss 1.5825 |num_fg 5.3942 
+2023-12-14-19-39: coco_CSPDarknet-s_640x640| train: total_epoch[18/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02797523 |loss 4.5996 |conf_loss 2.2381 |cls_loss 0.7787 |iou_loss 1.5828 |num_fg 5.3912 
+2023-12-14-19-41: coco_CSPDarknet-s_640x640| train: total_epoch[18/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02797217 |loss 4.5981 |conf_loss 2.2371 |cls_loss 0.7791 |iou_loss 1.5819 |num_fg 5.3935 
+2023-12-14-19-43: coco_CSPDarknet-s_640x640| train: total_epoch[18/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02796909 |loss 4.5942 |conf_loss 2.2355 |cls_loss 0.7785 |iou_loss 1.5802 |num_fg 5.3961 
+2023-12-14-19-45: train epoch: 18 |loss 4.591374 | conf_loss 2.233196 | cls_loss 0.778328 | iou_loss 1.579850 | num_fg 5.397393 | time 17.366667 | 
+2023-12-14-19-45: epoch 18, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-19-47: coco_CSPDarknet-s_640x640| train: total_epoch[19/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02796352 |loss 4.5660 |conf_loss 2.2145 |cls_loss 0.7803 |iou_loss 1.5712 |num_fg 5.4120 
+2023-12-14-19-50: coco_CSPDarknet-s_640x640| train: total_epoch[19/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02796035 |loss 4.5611 |conf_loss 2.2125 |cls_loss 0.7770 |iou_loss 1.5716 |num_fg 5.4164 
+2023-12-14-19-52: coco_CSPDarknet-s_640x640| train: total_epoch[19/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02795715 |loss 4.5597 |conf_loss 2.2125 |cls_loss 0.7762 |iou_loss 1.5711 |num_fg 5.4147 
+2023-12-14-19-54: coco_CSPDarknet-s_640x640| train: total_epoch[19/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02795392 |loss 4.5652 |conf_loss 2.2170 |cls_loss 0.7763 |iou_loss 1.5718 |num_fg 5.4102 
+2023-12-14-19-56: coco_CSPDarknet-s_640x640| train: total_epoch[19/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02795065 |loss 4.5654 |conf_loss 2.2168 |cls_loss 0.7767 |iou_loss 1.5719 |num_fg 5.4108 
+2023-12-14-19-59: coco_CSPDarknet-s_640x640| train: total_epoch[19/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02794736 |loss 4.5652 |conf_loss 2.2168 |cls_loss 0.7769 |iou_loss 1.5716 |num_fg 5.4117 
+2023-12-14-20-01: coco_CSPDarknet-s_640x640| train: total_epoch[19/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02794403 |loss 4.5622 |conf_loss 2.2143 |cls_loss 0.7769 |iou_loss 1.5710 |num_fg 5.4131 
+2023-12-14-20-02: train epoch: 19 |loss 4.561118 | conf_loss 2.213158 | cls_loss 0.776721 | iou_loss 1.571239 | num_fg 5.410950 | time 17.500000 | 
+2023-12-14-20-02: epoch 19, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-20-05: coco_CSPDarknet-s_640x640| train: total_epoch[20/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02793804 |loss 4.5315 |conf_loss 2.1937 |cls_loss 0.7764 |iou_loss 1.5614 |num_fg 5.4362 
+2023-12-14-20-07: coco_CSPDarknet-s_640x640| train: total_epoch[20/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02793463 |loss 4.5440 |conf_loss 2.2035 |cls_loss 0.7757 |iou_loss 1.5649 |num_fg 5.4305 
+2023-12-14-20-09: coco_CSPDarknet-s_640x640| train: total_epoch[20/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02793119 |loss 4.5410 |conf_loss 2.2031 |cls_loss 0.7740 |iou_loss 1.5639 |num_fg 5.4338 
+2023-12-14-20-12: coco_CSPDarknet-s_640x640| train: total_epoch[20/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02792772 |loss 4.5384 |conf_loss 2.2019 |cls_loss 0.7736 |iou_loss 1.5629 |num_fg 5.4379 
+2023-12-14-20-14: coco_CSPDarknet-s_640x640| train: total_epoch[20/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02792422 |loss 4.5426 |conf_loss 2.2036 |cls_loss 0.7740 |iou_loss 1.5650 |num_fg 5.4355 
+2023-12-14-20-16: coco_CSPDarknet-s_640x640| train: total_epoch[20/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02792069 |loss 4.5417 |conf_loss 2.2029 |cls_loss 0.7738 |iou_loss 1.5650 |num_fg 5.4365 
+2023-12-14-20-18: coco_CSPDarknet-s_640x640| train: total_epoch[20/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02791713 |loss 4.5365 |conf_loss 2.2001 |cls_loss 0.7729 |iou_loss 1.5635 |num_fg 5.4381 
+2023-12-14-20-20: train epoch: 20 |loss 4.534821 | conf_loss 2.199767 | cls_loss 0.772780 | iou_loss 1.562274 | num_fg 5.437992 | time 17.350000 | 
+2023-12-14-20-20: ----------epoch 20 start evaluate----------
+2023-12-14-20-21: coco_CSPDarknet-s_640x640| val: total_epoch[20/300] batch[50/406] |size: 180x3x416x416 |lr: 0.02791433 |loss 3.7653 |conf_loss 1.7711 |cls_loss 0.6488 |iou_loss 1.3454 |num_fg 6.0098 
+2023-12-14-20-23: coco_CSPDarknet-s_640x640| val: total_epoch[20/300] batch[100/406] |size: 180x3x416x416 |lr: 0.02791433 |loss 3.7679 |conf_loss 1.7745 |cls_loss 0.6483 |iou_loss 1.3450 |num_fg 6.0245 
+2023-12-14-20-24: coco_CSPDarknet-s_640x640| val: total_epoch[20/300] batch[150/406] |size: 180x3x416x416 |lr: 0.02791433 |loss 3.7734 |conf_loss 1.7782 |cls_loss 0.6493 |iou_loss 1.3459 |num_fg 6.0187 
+2023-12-14-20-25: coco_CSPDarknet-s_640x640| val: total_epoch[20/300] batch[200/406] |size: 180x3x416x416 |lr: 0.02791433 |loss 3.7777 |conf_loss 1.7816 |cls_loss 0.6491 |iou_loss 1.3470 |num_fg 6.0144 
+2023-12-14-20-26: coco_CSPDarknet-s_640x640| val: total_epoch[20/300] batch[250/406] |size: 180x3x416x416 |lr: 0.02791433 |loss 3.7802 |conf_loss 1.7818 |cls_loss 0.6495 |iou_loss 1.3489 |num_fg 6.0130 
+2023-12-14-20-28: coco_CSPDarknet-s_640x640| val: total_epoch[20/300] batch[300/406] |size: 180x3x416x416 |lr: 0.02791433 |loss 3.7812 |conf_loss 1.7825 |cls_loss 0.6495 |iou_loss 1.3492 |num_fg 6.0102 
+2023-12-14-20-29: coco_CSPDarknet-s_640x640| val: total_epoch[20/300] batch[350/406] |size: 180x3x416x416 |lr: 0.02791433 |loss 3.7800 |conf_loss 1.7817 |cls_loss 0.6489 |iou_loss 1.3493 |num_fg 6.0104 
+2023-12-14-20-30: coco_CSPDarknet-s_640x640| val: total_epoch[20/300] batch[400/406] |size: 180x3x416x416 |lr: 0.02791433 |loss 3.7826 |conf_loss 1.7827 |cls_loss 0.6493 |iou_loss 1.3505 |num_fg 6.0061 
+2023-12-14-20-31: ----------epoch 20 evaluating ----------
+2023-12-14-20-31: val epoch: 20 |loss 3.783459 | conf_loss 1.783550 | cls_loss 0.649449 | iou_loss 1.350460 | num_fg 6.006459 | time 10.716667 | AP 0.227387 | AP_0.5 0.408175 | AP_0.75 0.227661 | AP_small 0.022956 | AP_medium 0.160768 | AP_large 0.386428 | 
+2023-12-14-20-39: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.227
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.408
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.228
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.023
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.161
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.386
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.191
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.332
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.361
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.059
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.340
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.552
+
+2023-12-14-20-39: epoch 20, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_best.pth
+2023-12-14-20-39: epoch 20, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_20.pth
+2023-12-14-20-39: epoch 20, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-20-42: coco_CSPDarknet-s_640x640| train: total_epoch[21/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02791071 |loss 4.5006 |conf_loss 2.1776 |cls_loss 0.7679 |iou_loss 1.5550 |num_fg 5.4529 
+2023-12-14-20-44: coco_CSPDarknet-s_640x640| train: total_epoch[21/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02790707 |loss 4.5006 |conf_loss 2.1832 |cls_loss 0.7657 |iou_loss 1.5517 |num_fg 5.4671 
+2023-12-14-20-46: coco_CSPDarknet-s_640x640| train: total_epoch[21/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02790339 |loss 4.5070 |conf_loss 2.1859 |cls_loss 0.7666 |iou_loss 1.5545 |num_fg 5.4556 
+2023-12-14-20-48: coco_CSPDarknet-s_640x640| train: total_epoch[21/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02789968 |loss 4.5064 |conf_loss 2.1840 |cls_loss 0.7667 |iou_loss 1.5558 |num_fg 5.4488 
+2023-12-14-20-51: coco_CSPDarknet-s_640x640| train: total_epoch[21/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02789594 |loss 4.5064 |conf_loss 2.1844 |cls_loss 0.7672 |iou_loss 1.5547 |num_fg 5.4488 
+2023-12-14-20-53: coco_CSPDarknet-s_640x640| train: total_epoch[21/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02789218 |loss 4.5053 |conf_loss 2.1838 |cls_loss 0.7671 |iou_loss 1.5545 |num_fg 5.4505 
+2023-12-14-20-55: coco_CSPDarknet-s_640x640| train: total_epoch[21/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02788838 |loss 4.5058 |conf_loss 2.1833 |cls_loss 0.7674 |iou_loss 1.5551 |num_fg 5.4479 
+2023-12-14-20-57: train epoch: 21 |loss 4.504534 | conf_loss 2.182690 | cls_loss 0.767081 | iou_loss 1.554763 | num_fg 5.448757 | time 17.333333 | 
+2023-12-14-20-57: epoch 21, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-20-59: coco_CSPDarknet-s_640x640| train: total_epoch[22/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02788154 |loss 4.4783 |conf_loss 2.1618 |cls_loss 0.7648 |iou_loss 1.5516 |num_fg 5.4682 
+2023-12-14-21-01: coco_CSPDarknet-s_640x640| train: total_epoch[22/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02787765 |loss 4.4828 |conf_loss 2.1674 |cls_loss 0.7638 |iou_loss 1.5516 |num_fg 5.4685 
+2023-12-14-21-04: coco_CSPDarknet-s_640x640| train: total_epoch[22/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02787374 |loss 4.4890 |conf_loss 2.1709 |cls_loss 0.7653 |iou_loss 1.5528 |num_fg 5.4678 
+2023-12-14-21-06: coco_CSPDarknet-s_640x640| train: total_epoch[22/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02786980 |loss 4.4921 |conf_loss 2.1725 |cls_loss 0.7664 |iou_loss 1.5532 |num_fg 5.4661 
+2023-12-14-21-08: coco_CSPDarknet-s_640x640| train: total_epoch[22/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02786582 |loss 4.4880 |conf_loss 2.1699 |cls_loss 0.7658 |iou_loss 1.5523 |num_fg 5.4664 
+2023-12-14-21-10: coco_CSPDarknet-s_640x640| train: total_epoch[22/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02786181 |loss 4.4853 |conf_loss 2.1688 |cls_loss 0.7651 |iou_loss 1.5514 |num_fg 5.4675 
+2023-12-14-21-12: coco_CSPDarknet-s_640x640| train: total_epoch[22/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02785778 |loss 4.4820 |conf_loss 2.1677 |cls_loss 0.7643 |iou_loss 1.5500 |num_fg 5.4684 
+2023-12-14-21-14: train epoch: 22 |loss 4.481943 | conf_loss 2.167344 | cls_loss 0.764638 | iou_loss 1.549961 | num_fg 5.466661 | time 17.300000 | 
+2023-12-14-21-14: epoch 22, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-21-16: coco_CSPDarknet-s_640x640| train: total_epoch[23/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02785052 |loss 4.4832 |conf_loss 2.1634 |cls_loss 0.7669 |iou_loss 1.5529 |num_fg 5.4381 
+2023-12-14-21-19: coco_CSPDarknet-s_640x640| train: total_epoch[23/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02784640 |loss 4.4682 |conf_loss 2.1609 |cls_loss 0.7625 |iou_loss 1.5449 |num_fg 5.4634 
+2023-12-14-21-21: coco_CSPDarknet-s_640x640| train: total_epoch[23/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02784225 |loss 4.4661 |conf_loss 2.1599 |cls_loss 0.7618 |iou_loss 1.5444 |num_fg 5.4657 
+2023-12-14-21-23: coco_CSPDarknet-s_640x640| train: total_epoch[23/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02783807 |loss 4.4653 |conf_loss 2.1594 |cls_loss 0.7620 |iou_loss 1.5439 |num_fg 5.4682 
+2023-12-14-21-25: coco_CSPDarknet-s_640x640| train: total_epoch[23/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02783386 |loss 4.4654 |conf_loss 2.1592 |cls_loss 0.7625 |iou_loss 1.5437 |num_fg 5.4695 
+2023-12-14-21-27: coco_CSPDarknet-s_640x640| train: total_epoch[23/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02782961 |loss 4.4645 |conf_loss 2.1580 |cls_loss 0.7628 |iou_loss 1.5437 |num_fg 5.4684 
+2023-12-14-21-30: coco_CSPDarknet-s_640x640| train: total_epoch[23/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02782534 |loss 4.4628 |conf_loss 2.1567 |cls_loss 0.7626 |iou_loss 1.5435 |num_fg 5.4658 
+2023-12-14-21-31: train epoch: 23 |loss 4.461404 | conf_loss 2.156068 | cls_loss 0.762598 | iou_loss 1.542738 | num_fg 5.467927 | time 17.283333 | 
+2023-12-14-21-31: epoch 23, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-21-34: coco_CSPDarknet-s_640x640| train: total_epoch[24/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02781766 |loss 4.4398 |conf_loss 2.1467 |cls_loss 0.7569 |iou_loss 1.5363 |num_fg 5.4890 
+2023-12-14-21-36: coco_CSPDarknet-s_640x640| train: total_epoch[24/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02781330 |loss 4.4426 |conf_loss 2.1442 |cls_loss 0.7593 |iou_loss 1.5390 |num_fg 5.4826 
+2023-12-14-21-38: coco_CSPDarknet-s_640x640| train: total_epoch[24/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02780892 |loss 4.4403 |conf_loss 2.1438 |cls_loss 0.7597 |iou_loss 1.5367 |num_fg 5.4828 
+2023-12-14-21-40: coco_CSPDarknet-s_640x640| train: total_epoch[24/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02780450 |loss 4.4367 |conf_loss 2.1421 |cls_loss 0.7587 |iou_loss 1.5359 |num_fg 5.4876 
+2023-12-14-21-43: coco_CSPDarknet-s_640x640| train: total_epoch[24/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02780005 |loss 4.4336 |conf_loss 2.1396 |cls_loss 0.7588 |iou_loss 1.5352 |num_fg 5.4873 
+2023-12-14-21-45: coco_CSPDarknet-s_640x640| train: total_epoch[24/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02779558 |loss 4.4347 |conf_loss 2.1407 |cls_loss 0.7590 |iou_loss 1.5350 |num_fg 5.4868 
+2023-12-14-21-47: coco_CSPDarknet-s_640x640| train: total_epoch[24/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02779107 |loss 4.4351 |conf_loss 2.1405 |cls_loss 0.7593 |iou_loss 1.5353 |num_fg 5.4850 
+2023-12-14-21-49: train epoch: 24 |loss 4.432954 | conf_loss 2.139106 | cls_loss 0.759114 | iou_loss 1.534735 | num_fg 5.486865 | time 17.316667 | 
+2023-12-14-21-49: epoch 24, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-21-51: coco_CSPDarknet-s_640x640| train: total_epoch[25/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02778297 |loss 4.4457 |conf_loss 2.1533 |cls_loss 0.7606 |iou_loss 1.5318 |num_fg 5.4977 
+2023-12-14-21-53: coco_CSPDarknet-s_640x640| train: total_epoch[25/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02777838 |loss 4.4288 |conf_loss 2.1358 |cls_loss 0.7593 |iou_loss 1.5337 |num_fg 5.4889 
+2023-12-14-21-56: coco_CSPDarknet-s_640x640| train: total_epoch[25/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02777375 |loss 4.4261 |conf_loss 2.1356 |cls_loss 0.7581 |iou_loss 1.5324 |num_fg 5.4938 
+2023-12-14-21-58: coco_CSPDarknet-s_640x640| train: total_epoch[25/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02776910 |loss 4.4217 |conf_loss 2.1337 |cls_loss 0.7585 |iou_loss 1.5295 |num_fg 5.5030 
+2023-12-14-22-00: coco_CSPDarknet-s_640x640| train: total_epoch[25/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02776442 |loss 4.4185 |conf_loss 2.1312 |cls_loss 0.7570 |iou_loss 1.5302 |num_fg 5.5016 
+2023-12-14-22-02: coco_CSPDarknet-s_640x640| train: total_epoch[25/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02775971 |loss 4.4169 |conf_loss 2.1299 |cls_loss 0.7566 |iou_loss 1.5304 |num_fg 5.5032 
+2023-12-14-22-04: coco_CSPDarknet-s_640x640| train: total_epoch[25/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02775496 |loss 4.4152 |conf_loss 2.1283 |cls_loss 0.7565 |iou_loss 1.5304 |num_fg 5.5041 
+2023-12-14-22-06: train epoch: 25 |loss 4.416501 | conf_loss 2.129036 | cls_loss 0.756953 | iou_loss 1.530512 | num_fg 5.502310 | time 17.333333 | 
+2023-12-14-22-06: epoch 25, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-22-08: coco_CSPDarknet-s_640x640| train: total_epoch[26/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02774645 |loss 4.4077 |conf_loss 2.1203 |cls_loss 0.7569 |iou_loss 1.5306 |num_fg 5.4905 
+2023-12-14-22-11: coco_CSPDarknet-s_640x640| train: total_epoch[26/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02774162 |loss 4.4054 |conf_loss 2.1195 |cls_loss 0.7555 |iou_loss 1.5304 |num_fg 5.4974 
+2023-12-14-22-13: coco_CSPDarknet-s_640x640| train: total_epoch[26/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02773676 |loss 4.4028 |conf_loss 2.1195 |cls_loss 0.7546 |iou_loss 1.5287 |num_fg 5.5018 
+2023-12-14-22-15: coco_CSPDarknet-s_640x640| train: total_epoch[26/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02773188 |loss 4.4026 |conf_loss 2.1196 |cls_loss 0.7549 |iou_loss 1.5281 |num_fg 5.5010 
+2023-12-14-22-17: coco_CSPDarknet-s_640x640| train: total_epoch[26/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02772696 |loss 4.4089 |conf_loss 2.1231 |cls_loss 0.7567 |iou_loss 1.5291 |num_fg 5.5007 
+2023-12-14-22-19: coco_CSPDarknet-s_640x640| train: total_epoch[26/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02772201 |loss 4.4061 |conf_loss 2.1221 |cls_loss 0.7567 |iou_loss 1.5273 |num_fg 5.5032 
+2023-12-14-22-22: coco_CSPDarknet-s_640x640| train: total_epoch[26/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02771703 |loss 4.4052 |conf_loss 2.1223 |cls_loss 0.7563 |iou_loss 1.5267 |num_fg 5.5061 
+2023-12-14-22-23: train epoch: 26 |loss 4.405485 | conf_loss 2.123653 | cls_loss 0.756122 | iou_loss 1.525709 | num_fg 5.507722 | time 17.383333 | 
+2023-12-14-22-23: epoch 26, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-22-26: coco_CSPDarknet-s_640x640| train: total_epoch[27/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02770810 |loss 4.4392 |conf_loss 2.1449 |cls_loss 0.7626 |iou_loss 1.5318 |num_fg 5.4988 
+2023-12-14-22-28: coco_CSPDarknet-s_640x640| train: total_epoch[27/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02770304 |loss 4.3985 |conf_loss 2.1201 |cls_loss 0.7548 |iou_loss 1.5236 |num_fg 5.5145 
+2023-12-14-22-30: coco_CSPDarknet-s_640x640| train: total_epoch[27/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02769795 |loss 4.4030 |conf_loss 2.1222 |cls_loss 0.7543 |iou_loss 1.5265 |num_fg 5.5078 
+2023-12-14-22-32: coco_CSPDarknet-s_640x640| train: total_epoch[27/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02769283 |loss 4.4016 |conf_loss 2.1210 |cls_loss 0.7539 |iou_loss 1.5267 |num_fg 5.5076 
+2023-12-14-22-35: coco_CSPDarknet-s_640x640| train: total_epoch[27/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02768768 |loss 4.3984 |conf_loss 2.1188 |cls_loss 0.7538 |iou_loss 1.5258 |num_fg 5.5080 
+2023-12-14-22-37: coco_CSPDarknet-s_640x640| train: total_epoch[27/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02768250 |loss 4.3937 |conf_loss 2.1169 |cls_loss 0.7526 |iou_loss 1.5242 |num_fg 5.5123 
+2023-12-14-22-39: coco_CSPDarknet-s_640x640| train: total_epoch[27/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02767729 |loss 4.3923 |conf_loss 2.1162 |cls_loss 0.7531 |iou_loss 1.5230 |num_fg 5.5150 
+2023-12-14-22-41: train epoch: 27 |loss 4.390977 | conf_loss 2.114656 | cls_loss 0.753286 | iou_loss 1.523036 | num_fg 5.515233 | time 17.316667 | 
+2023-12-14-22-41: epoch 27, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-22-43: coco_CSPDarknet-s_640x640| train: total_epoch[28/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02766794 |loss 4.3882 |conf_loss 2.1232 |cls_loss 0.7505 |iou_loss 1.5145 |num_fg 5.5334 
+2023-12-14-22-45: coco_CSPDarknet-s_640x640| train: total_epoch[28/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02766264 |loss 4.3870 |conf_loss 2.1169 |cls_loss 0.7532 |iou_loss 1.5170 |num_fg 5.5277 
+2023-12-14-22-48: coco_CSPDarknet-s_640x640| train: total_epoch[28/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02765732 |loss 4.3833 |conf_loss 2.1138 |cls_loss 0.7520 |iou_loss 1.5176 |num_fg 5.5303 
+2023-12-14-22-50: coco_CSPDarknet-s_640x640| train: total_epoch[28/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02765196 |loss 4.3837 |conf_loss 2.1127 |cls_loss 0.7518 |iou_loss 1.5192 |num_fg 5.5270 
+2023-12-14-22-52: coco_CSPDarknet-s_640x640| train: total_epoch[28/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02764658 |loss 4.3847 |conf_loss 2.1135 |cls_loss 0.7519 |iou_loss 1.5193 |num_fg 5.5279 
+2023-12-14-22-54: coco_CSPDarknet-s_640x640| train: total_epoch[28/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02764117 |loss 4.3828 |conf_loss 2.1112 |cls_loss 0.7521 |iou_loss 1.5195 |num_fg 5.5275 
+2023-12-14-22-56: coco_CSPDarknet-s_640x640| train: total_epoch[28/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02763572 |loss 4.3832 |conf_loss 2.1118 |cls_loss 0.7518 |iou_loss 1.5196 |num_fg 5.5260 
+2023-12-14-22-58: train epoch: 28 |loss 4.380348 | conf_loss 2.109656 | cls_loss 0.751811 | iou_loss 1.518881 | num_fg 5.527263 | time 17.316667 | 
+2023-12-14-22-58: epoch 28, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-23-00: coco_CSPDarknet-s_640x640| train: total_epoch[29/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02762596 |loss 4.3481 |conf_loss 2.0863 |cls_loss 0.7508 |iou_loss 1.5110 |num_fg 5.5354 
+2023-12-14-23-03: coco_CSPDarknet-s_640x640| train: total_epoch[29/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02762043 |loss 4.3460 |conf_loss 2.0867 |cls_loss 0.7492 |iou_loss 1.5102 |num_fg 5.5310 
+2023-12-14-23-05: coco_CSPDarknet-s_640x640| train: total_epoch[29/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02761487 |loss 4.3509 |conf_loss 2.0894 |cls_loss 0.7487 |iou_loss 1.5129 |num_fg 5.5221 
+2023-12-14-23-07: coco_CSPDarknet-s_640x640| train: total_epoch[29/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02760929 |loss 4.3540 |conf_loss 2.0919 |cls_loss 0.7488 |iou_loss 1.5132 |num_fg 5.5230 
+2023-12-14-23-09: coco_CSPDarknet-s_640x640| train: total_epoch[29/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02760367 |loss 4.3557 |conf_loss 2.0937 |cls_loss 0.7488 |iou_loss 1.5132 |num_fg 5.5272 
+2023-12-14-23-12: coco_CSPDarknet-s_640x640| train: total_epoch[29/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02759802 |loss 4.3508 |conf_loss 2.0912 |cls_loss 0.7479 |iou_loss 1.5118 |num_fg 5.5321 
+2023-12-14-23-14: coco_CSPDarknet-s_640x640| train: total_epoch[29/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02759235 |loss 4.3525 |conf_loss 2.0925 |cls_loss 0.7481 |iou_loss 1.5119 |num_fg 5.5337 
+2023-12-14-23-15: train epoch: 29 |loss 4.354087 | conf_loss 2.093677 | cls_loss 0.748271 | iou_loss 1.512139 | num_fg 5.534534 | time 17.316667 | 
+2023-12-14-23-15: epoch 29, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-23-18: coco_CSPDarknet-s_640x640| train: total_epoch[30/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02758217 |loss 4.3566 |conf_loss 2.0972 |cls_loss 0.7484 |iou_loss 1.5111 |num_fg 5.5430 
+2023-12-14-23-20: coco_CSPDarknet-s_640x640| train: total_epoch[30/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02757641 |loss 4.3518 |conf_loss 2.0916 |cls_loss 0.7500 |iou_loss 1.5102 |num_fg 5.5367 
+2023-12-14-23-22: coco_CSPDarknet-s_640x640| train: total_epoch[30/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02757062 |loss 4.3575 |conf_loss 2.0964 |cls_loss 0.7502 |iou_loss 1.5108 |num_fg 5.5370 
+2023-12-14-23-24: coco_CSPDarknet-s_640x640| train: total_epoch[30/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02756481 |loss 4.3558 |conf_loss 2.0945 |cls_loss 0.7492 |iou_loss 1.5120 |num_fg 5.5396 
+2023-12-14-23-27: coco_CSPDarknet-s_640x640| train: total_epoch[30/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02755896 |loss 4.3537 |conf_loss 2.0931 |cls_loss 0.7486 |iou_loss 1.5120 |num_fg 5.5438 
+2023-12-14-23-29: coco_CSPDarknet-s_640x640| train: total_epoch[30/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02755308 |loss 4.3506 |conf_loss 2.0917 |cls_loss 0.7476 |iou_loss 1.5113 |num_fg 5.5455 
+2023-12-14-23-31: coco_CSPDarknet-s_640x640| train: total_epoch[30/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02754717 |loss 4.3506 |conf_loss 2.0915 |cls_loss 0.7480 |iou_loss 1.5111 |num_fg 5.5461 
+2023-12-14-23-33: train epoch: 30 |loss 4.347677 | conf_loss 2.089467 | cls_loss 0.747924 | iou_loss 1.510286 | num_fg 5.547347 | time 17.283333 | 
+2023-12-14-23-33: epoch 30, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-23-35: coco_CSPDarknet-s_640x640| train: total_epoch[31/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02753658 |loss 4.3399 |conf_loss 2.0873 |cls_loss 0.7459 |iou_loss 1.5067 |num_fg 5.5499 
+2023-12-14-23-37: coco_CSPDarknet-s_640x640| train: total_epoch[31/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02753059 |loss 4.3396 |conf_loss 2.0865 |cls_loss 0.7451 |iou_loss 1.5080 |num_fg 5.5464 
+2023-12-14-23-39: coco_CSPDarknet-s_640x640| train: total_epoch[31/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02752457 |loss 4.3374 |conf_loss 2.0846 |cls_loss 0.7470 |iou_loss 1.5058 |num_fg 5.5528 
+2023-12-14-23-42: coco_CSPDarknet-s_640x640| train: total_epoch[31/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02751853 |loss 4.3337 |conf_loss 2.0822 |cls_loss 0.7468 |iou_loss 1.5047 |num_fg 5.5548 
+2023-12-14-23-44: coco_CSPDarknet-s_640x640| train: total_epoch[31/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02751245 |loss 4.3363 |conf_loss 2.0845 |cls_loss 0.7465 |iou_loss 1.5053 |num_fg 5.5566 
+2023-12-14-23-46: coco_CSPDarknet-s_640x640| train: total_epoch[31/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02750634 |loss 4.3373 |conf_loss 2.0859 |cls_loss 0.7462 |iou_loss 1.5053 |num_fg 5.5572 
+2023-12-14-23-48: coco_CSPDarknet-s_640x640| train: total_epoch[31/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02750020 |loss 4.3345 |conf_loss 2.0842 |cls_loss 0.7453 |iou_loss 1.5049 |num_fg 5.5567 
+2023-12-14-23-50: train epoch: 31 |loss 4.334594 | conf_loss 2.084416 | cls_loss 0.745809 | iou_loss 1.504369 | num_fg 5.556475 | time 17.283333 | 
+2023-12-14-23-50: epoch 31, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-14-23-53: coco_CSPDarknet-s_640x640| train: total_epoch[32/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02748920 |loss 4.3237 |conf_loss 2.0788 |cls_loss 0.7422 |iou_loss 1.5026 |num_fg 5.5608 
+2023-12-14-23-55: coco_CSPDarknet-s_640x640| train: total_epoch[32/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02748298 |loss 4.3196 |conf_loss 2.0746 |cls_loss 0.7423 |iou_loss 1.5026 |num_fg 5.5623 
+2023-12-14-23-57: coco_CSPDarknet-s_640x640| train: total_epoch[32/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02747673 |loss 4.3130 |conf_loss 2.0723 |cls_loss 0.7418 |iou_loss 1.4989 |num_fg 5.5658 
+2023-12-14-23-59: coco_CSPDarknet-s_640x640| train: total_epoch[32/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02747045 |loss 4.3177 |conf_loss 2.0762 |cls_loss 0.7419 |iou_loss 1.4996 |num_fg 5.5657 
+2023-12-15-00-01: coco_CSPDarknet-s_640x640| train: total_epoch[32/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02746414 |loss 4.3185 |conf_loss 2.0766 |cls_loss 0.7424 |iou_loss 1.4994 |num_fg 5.5667 
+2023-12-15-00-03: coco_CSPDarknet-s_640x640| train: total_epoch[32/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02745781 |loss 4.3177 |conf_loss 2.0743 |cls_loss 0.7425 |iou_loss 1.5009 |num_fg 5.5635 
+2023-12-15-00-06: coco_CSPDarknet-s_640x640| train: total_epoch[32/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02745144 |loss 4.3197 |conf_loss 2.0759 |cls_loss 0.7428 |iou_loss 1.5011 |num_fg 5.5636 
+2023-12-15-00-07: train epoch: 32 |loss 4.318510 | conf_loss 2.074923 | cls_loss 0.742935 | iou_loss 1.500652 | num_fg 5.562420 | time 17.366667 | 
+2023-12-15-00-07: epoch 32, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-00-10: coco_CSPDarknet-s_640x640| train: total_epoch[33/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02744003 |loss 4.3351 |conf_loss 2.0829 |cls_loss 0.7467 |iou_loss 1.5055 |num_fg 5.5450 
+2023-12-15-00-12: coco_CSPDarknet-s_640x640| train: total_epoch[33/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02743358 |loss 4.3330 |conf_loss 2.0806 |cls_loss 0.7467 |iou_loss 1.5057 |num_fg 5.5452 
+2023-12-15-00-14: coco_CSPDarknet-s_640x640| train: total_epoch[33/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02742710 |loss 4.3265 |conf_loss 2.0769 |cls_loss 0.7466 |iou_loss 1.5030 |num_fg 5.5523 
+2023-12-15-00-17: coco_CSPDarknet-s_640x640| train: total_epoch[33/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02742060 |loss 4.3221 |conf_loss 2.0736 |cls_loss 0.7459 |iou_loss 1.5025 |num_fg 5.5545 
+2023-12-15-00-19: coco_CSPDarknet-s_640x640| train: total_epoch[33/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02741406 |loss 4.3186 |conf_loss 2.0710 |cls_loss 0.7452 |iou_loss 1.5024 |num_fg 5.5537 
+2023-12-15-00-21: coco_CSPDarknet-s_640x640| train: total_epoch[33/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02740749 |loss 4.3151 |conf_loss 2.0694 |cls_loss 0.7441 |iou_loss 1.5016 |num_fg 5.5548 
+2023-12-15-00-23: coco_CSPDarknet-s_640x640| train: total_epoch[33/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02740089 |loss 4.3142 |conf_loss 2.0698 |cls_loss 0.7440 |iou_loss 1.5004 |num_fg 5.5585 
+2023-12-15-00-25: train epoch: 33 |loss 4.312717 | conf_loss 2.068288 | cls_loss 0.744205 | iou_loss 1.500224 | num_fg 5.558744 | time 17.350000 | 
+2023-12-15-00-25: epoch 33, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-00-27: coco_CSPDarknet-s_640x640| train: total_epoch[34/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02738908 |loss 4.3099 |conf_loss 2.0681 |cls_loss 0.7475 |iou_loss 1.4942 |num_fg 5.5791 
+2023-12-15-00-29: coco_CSPDarknet-s_640x640| train: total_epoch[34/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02738240 |loss 4.3089 |conf_loss 2.0680 |cls_loss 0.7451 |iou_loss 1.4958 |num_fg 5.5677 
+2023-12-15-00-32: coco_CSPDarknet-s_640x640| train: total_epoch[34/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02737570 |loss 4.3046 |conf_loss 2.0647 |cls_loss 0.7443 |iou_loss 1.4956 |num_fg 5.5705 
+2023-12-15-00-34: coco_CSPDarknet-s_640x640| train: total_epoch[34/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02736896 |loss 4.3048 |conf_loss 2.0667 |cls_loss 0.7433 |iou_loss 1.4949 |num_fg 5.5730 
+2023-12-15-00-36: coco_CSPDarknet-s_640x640| train: total_epoch[34/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02736219 |loss 4.3077 |conf_loss 2.0677 |cls_loss 0.7436 |iou_loss 1.4964 |num_fg 5.5730 
+2023-12-15-00-38: coco_CSPDarknet-s_640x640| train: total_epoch[34/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02735540 |loss 4.3026 |conf_loss 2.0639 |cls_loss 0.7434 |iou_loss 1.4953 |num_fg 5.5772 
+2023-12-15-00-41: coco_CSPDarknet-s_640x640| train: total_epoch[34/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02734857 |loss 4.3004 |conf_loss 2.0622 |cls_loss 0.7431 |iou_loss 1.4951 |num_fg 5.5775 
+2023-12-15-00-42: train epoch: 34 |loss 4.299680 | conf_loss 2.062315 | cls_loss 0.742708 | iou_loss 1.494657 | num_fg 5.577703 | time 17.383333 | 
+2023-12-15-00-42: epoch 34, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-00-45: coco_CSPDarknet-s_640x640| train: total_epoch[35/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02733636 |loss 4.2890 |conf_loss 2.0575 |cls_loss 0.7416 |iou_loss 1.4899 |num_fg 5.5885 
+2023-12-15-00-47: coco_CSPDarknet-s_640x640| train: total_epoch[35/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02732945 |loss 4.2848 |conf_loss 2.0554 |cls_loss 0.7406 |iou_loss 1.4888 |num_fg 5.5902 
+2023-12-15-00-49: coco_CSPDarknet-s_640x640| train: total_epoch[35/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02732252 |loss 4.2894 |conf_loss 2.0597 |cls_loss 0.7407 |iou_loss 1.4891 |num_fg 5.5889 
+2023-12-15-00-51: coco_CSPDarknet-s_640x640| train: total_epoch[35/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02731555 |loss 4.2907 |conf_loss 2.0601 |cls_loss 0.7405 |iou_loss 1.4900 |num_fg 5.5898 
+2023-12-15-00-53: coco_CSPDarknet-s_640x640| train: total_epoch[35/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02730856 |loss 4.2865 |conf_loss 2.0568 |cls_loss 0.7402 |iou_loss 1.4894 |num_fg 5.5912 
+2023-12-15-00-56: coco_CSPDarknet-s_640x640| train: total_epoch[35/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02730154 |loss 4.2858 |conf_loss 2.0571 |cls_loss 0.7401 |iou_loss 1.4887 |num_fg 5.5925 
+2023-12-15-00-58: coco_CSPDarknet-s_640x640| train: total_epoch[35/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02729449 |loss 4.2833 |conf_loss 2.0555 |cls_loss 0.7397 |iou_loss 1.4881 |num_fg 5.5925 
+2023-12-15-00-59: train epoch: 35 |loss 4.283902 | conf_loss 2.055119 | cls_loss 0.740244 | iou_loss 1.488540 | num_fg 5.592314 | time 17.350000 | 
+2023-12-15-00-59: epoch 35, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-01-02: coco_CSPDarknet-s_640x640| train: total_epoch[36/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02728186 |loss 4.2909 |conf_loss 2.0584 |cls_loss 0.7397 |iou_loss 1.4928 |num_fg 5.5751 
+2023-12-15-01-04: coco_CSPDarknet-s_640x640| train: total_epoch[36/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02727473 |loss 4.2797 |conf_loss 2.0490 |cls_loss 0.7379 |iou_loss 1.4928 |num_fg 5.5804 
+2023-12-15-01-06: coco_CSPDarknet-s_640x640| train: total_epoch[36/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02726757 |loss 4.2796 |conf_loss 2.0501 |cls_loss 0.7371 |iou_loss 1.4924 |num_fg 5.5851 
+2023-12-15-01-09: coco_CSPDarknet-s_640x640| train: total_epoch[36/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02726038 |loss 4.2803 |conf_loss 2.0513 |cls_loss 0.7375 |iou_loss 1.4915 |num_fg 5.5871 
+2023-12-15-01-11: coco_CSPDarknet-s_640x640| train: total_epoch[36/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02725316 |loss 4.2812 |conf_loss 2.0510 |cls_loss 0.7384 |iou_loss 1.4918 |num_fg 5.5871 
+2023-12-15-01-13: coco_CSPDarknet-s_640x640| train: total_epoch[36/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02724591 |loss 4.2789 |conf_loss 2.0497 |cls_loss 0.7382 |iou_loss 1.4910 |num_fg 5.5890 
+2023-12-15-01-15: coco_CSPDarknet-s_640x640| train: total_epoch[36/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02723864 |loss 4.2800 |conf_loss 2.0506 |cls_loss 0.7384 |iou_loss 1.4910 |num_fg 5.5881 
+2023-12-15-01-17: train epoch: 36 |loss 4.275634 | conf_loss 2.048124 | cls_loss 0.737888 | iou_loss 1.489621 | num_fg 5.591651 | time 17.283333 | 
+2023-12-15-01-17: epoch 36, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-01-19: coco_CSPDarknet-s_640x640| train: total_epoch[37/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02722561 |loss 4.2661 |conf_loss 2.0391 |cls_loss 0.7387 |iou_loss 1.4883 |num_fg 5.5788 
+2023-12-15-01-21: coco_CSPDarknet-s_640x640| train: total_epoch[37/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02721825 |loss 4.2651 |conf_loss 2.0423 |cls_loss 0.7389 |iou_loss 1.4839 |num_fg 5.5931 
+2023-12-15-01-24: coco_CSPDarknet-s_640x640| train: total_epoch[37/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02721087 |loss 4.2655 |conf_loss 2.0433 |cls_loss 0.7376 |iou_loss 1.4847 |num_fg 5.5939 
+2023-12-15-01-26: coco_CSPDarknet-s_640x640| train: total_epoch[37/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02720345 |loss 4.2635 |conf_loss 2.0409 |cls_loss 0.7372 |iou_loss 1.4854 |num_fg 5.5960 
+2023-12-15-01-28: coco_CSPDarknet-s_640x640| train: total_epoch[37/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02719601 |loss 4.2607 |conf_loss 2.0389 |cls_loss 0.7371 |iou_loss 1.4847 |num_fg 5.6015 
+2023-12-15-01-30: coco_CSPDarknet-s_640x640| train: total_epoch[37/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02718854 |loss 4.2629 |conf_loss 2.0408 |cls_loss 0.7364 |iou_loss 1.4858 |num_fg 5.5980 
+2023-12-15-01-32: coco_CSPDarknet-s_640x640| train: total_epoch[37/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02718103 |loss 4.2631 |conf_loss 2.0414 |cls_loss 0.7367 |iou_loss 1.4849 |num_fg 5.5966 
+2023-12-15-01-34: train epoch: 37 |loss 4.265955 | conf_loss 2.043743 | cls_loss 0.736943 | iou_loss 1.485269 | num_fg 5.596050 | time 17.316667 | 
+2023-12-15-01-34: epoch 37, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-01-37: coco_CSPDarknet-s_640x640| train: total_epoch[38/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02716761 |loss 4.2573 |conf_loss 2.0400 |cls_loss 0.7375 |iou_loss 1.4798 |num_fg 5.6139 
+2023-12-15-01-39: coco_CSPDarknet-s_640x640| train: total_epoch[38/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02716003 |loss 4.2636 |conf_loss 2.0447 |cls_loss 0.7380 |iou_loss 1.4809 |num_fg 5.6043 
+2023-12-15-01-41: coco_CSPDarknet-s_640x640| train: total_epoch[38/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02715242 |loss 4.2570 |conf_loss 2.0393 |cls_loss 0.7368 |iou_loss 1.4809 |num_fg 5.6051 
+2023-12-15-01-43: coco_CSPDarknet-s_640x640| train: total_epoch[38/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02714478 |loss 4.2582 |conf_loss 2.0421 |cls_loss 0.7357 |iou_loss 1.4804 |num_fg 5.6081 
+2023-12-15-01-45: coco_CSPDarknet-s_640x640| train: total_epoch[38/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02713711 |loss 4.2568 |conf_loss 2.0409 |cls_loss 0.7354 |iou_loss 1.4806 |num_fg 5.6061 
+2023-12-15-01-48: coco_CSPDarknet-s_640x640| train: total_epoch[38/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02712941 |loss 4.2588 |conf_loss 2.0421 |cls_loss 0.7360 |iou_loss 1.4808 |num_fg 5.6057 
+2023-12-15-01-50: coco_CSPDarknet-s_640x640| train: total_epoch[38/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02712169 |loss 4.2527 |conf_loss 2.0377 |cls_loss 0.7354 |iou_loss 1.4796 |num_fg 5.6078 
+2023-12-15-01-51: train epoch: 38 |loss 4.252638 | conf_loss 2.037972 | cls_loss 0.735267 | iou_loss 1.479398 | num_fg 5.609536 | time 17.216667 | 
+2023-12-15-01-51: epoch 38, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-01-54: coco_CSPDarknet-s_640x640| train: total_epoch[39/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02710786 |loss 4.2457 |conf_loss 2.0329 |cls_loss 0.7343 |iou_loss 1.4785 |num_fg 5.6080 
+2023-12-15-01-56: coco_CSPDarknet-s_640x640| train: total_epoch[39/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02710006 |loss 4.2539 |conf_loss 2.0385 |cls_loss 0.7356 |iou_loss 1.4799 |num_fg 5.6036 
+2023-12-15-01-58: coco_CSPDarknet-s_640x640| train: total_epoch[39/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02709222 |loss 4.2533 |conf_loss 2.0384 |cls_loss 0.7346 |iou_loss 1.4803 |num_fg 5.6065 
+2023-12-15-02-01: coco_CSPDarknet-s_640x640| train: total_epoch[39/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02708436 |loss 4.2532 |conf_loss 2.0373 |cls_loss 0.7351 |iou_loss 1.4809 |num_fg 5.6077 
+2023-12-15-02-03: coco_CSPDarknet-s_640x640| train: total_epoch[39/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02707647 |loss 4.2493 |conf_loss 2.0357 |cls_loss 0.7345 |iou_loss 1.4790 |num_fg 5.6149 
+2023-12-15-02-05: coco_CSPDarknet-s_640x640| train: total_epoch[39/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02706855 |loss 4.2471 |conf_loss 2.0338 |cls_loss 0.7344 |iou_loss 1.4790 |num_fg 5.6126 
+2023-12-15-02-07: coco_CSPDarknet-s_640x640| train: total_epoch[39/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02706060 |loss 4.2468 |conf_loss 2.0339 |cls_loss 0.7339 |iou_loss 1.4791 |num_fg 5.6117 
+2023-12-15-02-09: train epoch: 39 |loss 4.245121 | conf_loss 2.032851 | cls_loss 0.733803 | iou_loss 1.478467 | num_fg 5.611926 | time 17.400000 | 
+2023-12-15-02-09: epoch 39, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-02-11: coco_CSPDarknet-s_640x640| train: total_epoch[40/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02704638 |loss 4.2429 |conf_loss 2.0267 |cls_loss 0.7359 |iou_loss 1.4803 |num_fg 5.5866 
+2023-12-15-02-13: coco_CSPDarknet-s_640x640| train: total_epoch[40/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02703836 |loss 4.2371 |conf_loss 2.0228 |cls_loss 0.7370 |iou_loss 1.4773 |num_fg 5.6048 
+2023-12-15-02-16: coco_CSPDarknet-s_640x640| train: total_epoch[40/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02703030 |loss 4.2431 |conf_loss 2.0280 |cls_loss 0.7372 |iou_loss 1.4779 |num_fg 5.6060 
+2023-12-15-02-18: coco_CSPDarknet-s_640x640| train: total_epoch[40/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02702222 |loss 4.2406 |conf_loss 2.0270 |cls_loss 0.7360 |iou_loss 1.4775 |num_fg 5.6080 
+2023-12-15-02-20: coco_CSPDarknet-s_640x640| train: total_epoch[40/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02701410 |loss 4.2369 |conf_loss 2.0262 |cls_loss 0.7350 |iou_loss 1.4757 |num_fg 5.6116 
+2023-12-15-02-22: coco_CSPDarknet-s_640x640| train: total_epoch[40/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02700596 |loss 4.2382 |conf_loss 2.0264 |cls_loss 0.7350 |iou_loss 1.4768 |num_fg 5.6099 
+2023-12-15-02-24: coco_CSPDarknet-s_640x640| train: total_epoch[40/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02699779 |loss 4.2385 |conf_loss 2.0264 |cls_loss 0.7353 |iou_loss 1.4767 |num_fg 5.6096 
+2023-12-15-02-26: train epoch: 40 |loss 4.237680 | conf_loss 2.026838 | cls_loss 0.735048 | iou_loss 1.475794 | num_fg 5.611574 | time 17.283333 | 
+2023-12-15-02-26: ----------epoch 40 start evaluate----------
+2023-12-15-02-27: coco_CSPDarknet-s_640x640| val: total_epoch[40/300] batch[50/406] |size: 180x3x416x416 |lr: 0.02699140 |loss 3.4302 |conf_loss 1.6059 |cls_loss 0.5973 |iou_loss 1.2270 |num_fg 6.2855 
+2023-12-15-02-29: coco_CSPDarknet-s_640x640| val: total_epoch[40/300] batch[100/406] |size: 180x3x416x416 |lr: 0.02699140 |loss 3.4349 |conf_loss 1.6088 |cls_loss 0.5973 |iou_loss 1.2288 |num_fg 6.2973 
+2023-12-15-02-30: coco_CSPDarknet-s_640x640| val: total_epoch[40/300] batch[150/406] |size: 180x3x416x416 |lr: 0.02699140 |loss 3.4410 |conf_loss 1.6134 |cls_loss 0.5979 |iou_loss 1.2298 |num_fg 6.2927 
+2023-12-15-02-31: coco_CSPDarknet-s_640x640| val: total_epoch[40/300] batch[200/406] |size: 180x3x416x416 |lr: 0.02699140 |loss 3.4440 |conf_loss 1.6157 |cls_loss 0.5977 |iou_loss 1.2307 |num_fg 6.2868 
+2023-12-15-02-32: coco_CSPDarknet-s_640x640| val: total_epoch[40/300] batch[250/406] |size: 180x3x416x416 |lr: 0.02699140 |loss 3.4472 |conf_loss 1.6162 |cls_loss 0.5983 |iou_loss 1.2327 |num_fg 6.2840 
+2023-12-15-02-33: coco_CSPDarknet-s_640x640| val: total_epoch[40/300] batch[300/406] |size: 180x3x416x416 |lr: 0.02699140 |loss 3.4465 |conf_loss 1.6161 |cls_loss 0.5983 |iou_loss 1.2321 |num_fg 6.2817 
+2023-12-15-02-34: coco_CSPDarknet-s_640x640| val: total_epoch[40/300] batch[350/406] |size: 180x3x416x416 |lr: 0.02699140 |loss 3.4464 |conf_loss 1.6162 |cls_loss 0.5980 |iou_loss 1.2323 |num_fg 6.2827 
+2023-12-15-02-36: coco_CSPDarknet-s_640x640| val: total_epoch[40/300] batch[400/406] |size: 180x3x416x416 |lr: 0.02699140 |loss 3.4488 |conf_loss 1.6169 |cls_loss 0.5982 |iou_loss 1.2338 |num_fg 6.2781 
+2023-12-15-02-36: ----------epoch 40 evaluating ----------
+2023-12-15-02-36: val epoch: 40 |loss 3.449649 | conf_loss 1.617673 | cls_loss 0.598315 | iou_loss 1.233662 | num_fg 6.278422 | time 9.766667 | AP 0.277313 | AP_0.5 0.471377 | AP_0.75 0.286584 | AP_small 0.029626 | AP_medium 0.203118 | AP_large 0.467335 | 
+2023-12-15-02-45: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.277
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.471
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.287
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.030
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.203
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.467
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.217
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.377
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.406
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.077
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.392
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.608
+
+2023-12-15-02-45: epoch 40, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_best.pth
+2023-12-15-02-45: epoch 40, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_40.pth
+2023-12-15-02-45: epoch 40, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-02-48: coco_CSPDarknet-s_640x640| train: total_epoch[41/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02698318 |loss 4.2424 |conf_loss 2.0311 |cls_loss 0.7349 |iou_loss 1.4764 |num_fg 5.6168 
+2023-12-15-02-50: coco_CSPDarknet-s_640x640| train: total_epoch[41/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02697493 |loss 4.2376 |conf_loss 2.0288 |cls_loss 0.7336 |iou_loss 1.4752 |num_fg 5.6172 
+2023-12-15-02-52: coco_CSPDarknet-s_640x640| train: total_epoch[41/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02696665 |loss 4.2351 |conf_loss 2.0267 |cls_loss 0.7342 |iou_loss 1.4742 |num_fg 5.6172 
+2023-12-15-02-54: coco_CSPDarknet-s_640x640| train: total_epoch[41/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02695835 |loss 4.2362 |conf_loss 2.0269 |cls_loss 0.7339 |iou_loss 1.4754 |num_fg 5.6154 
+2023-12-15-02-56: coco_CSPDarknet-s_640x640| train: total_epoch[41/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02695001 |loss 4.2320 |conf_loss 2.0236 |cls_loss 0.7334 |iou_loss 1.4749 |num_fg 5.6150 
+2023-12-15-02-59: coco_CSPDarknet-s_640x640| train: total_epoch[41/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02694165 |loss 4.2322 |conf_loss 2.0238 |cls_loss 0.7337 |iou_loss 1.4747 |num_fg 5.6133 
+2023-12-15-03-01: coco_CSPDarknet-s_640x640| train: total_epoch[41/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02693326 |loss 4.2318 |conf_loss 2.0242 |cls_loss 0.7336 |iou_loss 1.4741 |num_fg 5.6140 
+2023-12-15-03-02: train epoch: 41 |loss 4.230984 | conf_loss 2.023807 | cls_loss 0.733619 | iou_loss 1.473557 | num_fg 5.615872 | time 17.400000 | 
+2023-12-15-03-02: epoch 41, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-03-05: coco_CSPDarknet-s_640x640| train: total_epoch[42/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02691825 |loss 4.2212 |conf_loss 2.0182 |cls_loss 0.7299 |iou_loss 1.4731 |num_fg 5.6195 
+2023-12-15-03-07: coco_CSPDarknet-s_640x640| train: total_epoch[42/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02690979 |loss 4.2090 |conf_loss 2.0103 |cls_loss 0.7286 |iou_loss 1.4702 |num_fg 5.6261 
+2023-12-15-03-09: coco_CSPDarknet-s_640x640| train: total_epoch[42/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02690129 |loss 4.2106 |conf_loss 2.0120 |cls_loss 0.7287 |iou_loss 1.4699 |num_fg 5.6241 
+2023-12-15-03-12: coco_CSPDarknet-s_640x640| train: total_epoch[42/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02689276 |loss 4.2129 |conf_loss 2.0133 |cls_loss 0.7290 |iou_loss 1.4706 |num_fg 5.6252 
+2023-12-15-03-14: coco_CSPDarknet-s_640x640| train: total_epoch[42/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02688421 |loss 4.2095 |conf_loss 2.0105 |cls_loss 0.7289 |iou_loss 1.4700 |num_fg 5.6271 
+2023-12-15-03-16: coco_CSPDarknet-s_640x640| train: total_epoch[42/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02687563 |loss 4.2117 |conf_loss 2.0129 |cls_loss 0.7289 |iou_loss 1.4699 |num_fg 5.6269 
+2023-12-15-03-18: coco_CSPDarknet-s_640x640| train: total_epoch[42/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02686702 |loss 4.2140 |conf_loss 2.0138 |cls_loss 0.7297 |iou_loss 1.4704 |num_fg 5.6247 
+2023-12-15-03-20: train epoch: 42 |loss 4.216895 | conf_loss 2.015621 | cls_loss 0.730534 | iou_loss 1.470740 | num_fg 5.623203 | time 17.433333 | 
+2023-12-15-03-20: epoch 42, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-03-22: coco_CSPDarknet-s_640x640| train: total_epoch[43/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02685162 |loss 4.2084 |conf_loss 2.0079 |cls_loss 0.7318 |iou_loss 1.4687 |num_fg 5.6293 
+2023-12-15-03-25: coco_CSPDarknet-s_640x640| train: total_epoch[43/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02684294 |loss 4.2140 |conf_loss 2.0154 |cls_loss 0.7301 |iou_loss 1.4685 |num_fg 5.6302 
+2023-12-15-03-27: coco_CSPDarknet-s_640x640| train: total_epoch[43/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02683422 |loss 4.2159 |conf_loss 2.0133 |cls_loss 0.7313 |iou_loss 1.4713 |num_fg 5.6229 
+2023-12-15-03-29: coco_CSPDarknet-s_640x640| train: total_epoch[43/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02682548 |loss 4.2096 |conf_loss 2.0106 |cls_loss 0.7300 |iou_loss 1.4690 |num_fg 5.6298 
+2023-12-15-03-31: coco_CSPDarknet-s_640x640| train: total_epoch[43/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02681670 |loss 4.2089 |conf_loss 2.0109 |cls_loss 0.7301 |iou_loss 1.4679 |num_fg 5.6325 
+2023-12-15-03-33: coco_CSPDarknet-s_640x640| train: total_epoch[43/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02680790 |loss 4.2126 |conf_loss 2.0137 |cls_loss 0.7306 |iou_loss 1.4683 |num_fg 5.6334 
+2023-12-15-03-36: coco_CSPDarknet-s_640x640| train: total_epoch[43/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02679908 |loss 4.2112 |conf_loss 2.0124 |cls_loss 0.7308 |iou_loss 1.4680 |num_fg 5.6334 
+2023-12-15-03-37: train epoch: 43 |loss 4.210380 | conf_loss 2.011643 | cls_loss 0.730773 | iou_loss 1.467964 | num_fg 5.633897 | time 17.316667 | 
+2023-12-15-03-37: epoch 43, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-03-40: coco_CSPDarknet-s_640x640| train: total_epoch[44/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02678329 |loss 4.1985 |conf_loss 2.0016 |cls_loss 0.7271 |iou_loss 1.4698 |num_fg 5.6317 
+2023-12-15-03-42: coco_CSPDarknet-s_640x640| train: total_epoch[44/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02677439 |loss 4.2038 |conf_loss 2.0064 |cls_loss 0.7286 |iou_loss 1.4689 |num_fg 5.6315 
+2023-12-15-03-44: coco_CSPDarknet-s_640x640| train: total_epoch[44/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02676546 |loss 4.2111 |conf_loss 2.0116 |cls_loss 0.7298 |iou_loss 1.4696 |num_fg 5.6266 
+2023-12-15-03-46: coco_CSPDarknet-s_640x640| train: total_epoch[44/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02675649 |loss 4.2098 |conf_loss 2.0106 |cls_loss 0.7297 |iou_loss 1.4695 |num_fg 5.6281 
+2023-12-15-03-49: coco_CSPDarknet-s_640x640| train: total_epoch[44/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02674751 |loss 4.2116 |conf_loss 2.0132 |cls_loss 0.7294 |iou_loss 1.4690 |num_fg 5.6298 
+2023-12-15-03-51: coco_CSPDarknet-s_640x640| train: total_epoch[44/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02673849 |loss 4.2100 |conf_loss 2.0121 |cls_loss 0.7294 |iou_loss 1.4685 |num_fg 5.6325 
+2023-12-15-03-53: coco_CSPDarknet-s_640x640| train: total_epoch[44/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02672944 |loss 4.2107 |conf_loss 2.0112 |cls_loss 0.7300 |iou_loss 1.4695 |num_fg 5.6296 
+2023-12-15-03-55: train epoch: 44 |loss 4.206305 | conf_loss 2.008483 | cls_loss 0.729620 | iou_loss 1.468203 | num_fg 5.632310 | time 17.333333 | 
+2023-12-15-03-55: epoch 44, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-03-57: coco_CSPDarknet-s_640x640| train: total_epoch[45/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02671328 |loss 4.1738 |conf_loss 1.9858 |cls_loss 0.7270 |iou_loss 1.4610 |num_fg 5.6466 
+2023-12-15-03-59: coco_CSPDarknet-s_640x640| train: total_epoch[45/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02670415 |loss 4.1827 |conf_loss 1.9943 |cls_loss 0.7273 |iou_loss 1.4611 |num_fg 5.6487 
+2023-12-15-04-01: coco_CSPDarknet-s_640x640| train: total_epoch[45/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02669500 |loss 4.1883 |conf_loss 1.9972 |cls_loss 0.7283 |iou_loss 1.4627 |num_fg 5.6445 
+2023-12-15-04-04: coco_CSPDarknet-s_640x640| train: total_epoch[45/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02668583 |loss 4.1896 |conf_loss 1.9980 |cls_loss 0.7287 |iou_loss 1.4628 |num_fg 5.6457 
+2023-12-15-04-06: coco_CSPDarknet-s_640x640| train: total_epoch[45/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02667662 |loss 4.1930 |conf_loss 2.0007 |cls_loss 0.7294 |iou_loss 1.4629 |num_fg 5.6492 
+2023-12-15-04-08: coco_CSPDarknet-s_640x640| train: total_epoch[45/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02666739 |loss 4.1925 |conf_loss 2.0007 |cls_loss 0.7294 |iou_loss 1.4624 |num_fg 5.6494 
+2023-12-15-04-11: coco_CSPDarknet-s_640x640| train: total_epoch[45/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02665813 |loss 4.1907 |conf_loss 2.0000 |cls_loss 0.7292 |iou_loss 1.4615 |num_fg 5.6518 
+2023-12-15-04-12: train epoch: 45 |loss 4.190620 | conf_loss 2.000338 | cls_loss 0.728999 | iou_loss 1.461283 | num_fg 5.650657 | time 17.550000 | 
+2023-12-15-04-12: epoch 45, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-04-15: coco_CSPDarknet-s_640x640| train: total_epoch[46/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02664158 |loss 4.1944 |conf_loss 2.0022 |cls_loss 0.7275 |iou_loss 1.4647 |num_fg 5.6307 
+2023-12-15-04-17: coco_CSPDarknet-s_640x640| train: total_epoch[46/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02663224 |loss 4.1925 |conf_loss 2.0014 |cls_loss 0.7279 |iou_loss 1.4632 |num_fg 5.6416 
+2023-12-15-04-19: coco_CSPDarknet-s_640x640| train: total_epoch[46/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02662288 |loss 4.1906 |conf_loss 1.9983 |cls_loss 0.7281 |iou_loss 1.4643 |num_fg 5.6443 
+2023-12-15-04-21: coco_CSPDarknet-s_640x640| train: total_epoch[46/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02661349 |loss 4.1940 |conf_loss 2.0004 |cls_loss 0.7283 |iou_loss 1.4653 |num_fg 5.6403 
+2023-12-15-04-24: coco_CSPDarknet-s_640x640| train: total_epoch[46/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02660407 |loss 4.1917 |conf_loss 2.0002 |cls_loss 0.7275 |iou_loss 1.4640 |num_fg 5.6438 
+2023-12-15-04-26: coco_CSPDarknet-s_640x640| train: total_epoch[46/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02659462 |loss 4.1914 |conf_loss 2.0001 |cls_loss 0.7273 |iou_loss 1.4640 |num_fg 5.6431 
+2023-12-15-04-28: coco_CSPDarknet-s_640x640| train: total_epoch[46/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02658514 |loss 4.1917 |conf_loss 2.0002 |cls_loss 0.7277 |iou_loss 1.4638 |num_fg 5.6428 
+2023-12-15-04-30: train epoch: 46 |loss 4.189702 | conf_loss 1.998624 | cls_loss 0.727530 | iou_loss 1.463548 | num_fg 5.643868 | time 17.383333 | 
+2023-12-15-04-30: epoch 46, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-04-32: coco_CSPDarknet-s_640x640| train: total_epoch[47/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02656821 |loss 4.1934 |conf_loss 2.0054 |cls_loss 0.7283 |iou_loss 1.4597 |num_fg 5.6491 
+2023-12-15-04-34: coco_CSPDarknet-s_640x640| train: total_epoch[47/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02655866 |loss 4.2029 |conf_loss 2.0089 |cls_loss 0.7307 |iou_loss 1.4633 |num_fg 5.6420 
+2023-12-15-04-36: coco_CSPDarknet-s_640x640| train: total_epoch[47/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02654908 |loss 4.1951 |conf_loss 2.0048 |cls_loss 0.7284 |iou_loss 1.4618 |num_fg 5.6459 
+2023-12-15-04-39: coco_CSPDarknet-s_640x640| train: total_epoch[47/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02653948 |loss 4.1946 |conf_loss 2.0038 |cls_loss 0.7287 |iou_loss 1.4621 |num_fg 5.6398 
+2023-12-15-04-41: coco_CSPDarknet-s_640x640| train: total_epoch[47/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02652984 |loss 4.1944 |conf_loss 2.0028 |cls_loss 0.7291 |iou_loss 1.4624 |num_fg 5.6409 
+2023-12-15-04-43: coco_CSPDarknet-s_640x640| train: total_epoch[47/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02652018 |loss 4.1942 |conf_loss 2.0030 |cls_loss 0.7284 |iou_loss 1.4629 |num_fg 5.6402 
+2023-12-15-04-45: coco_CSPDarknet-s_640x640| train: total_epoch[47/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02651050 |loss 4.1906 |conf_loss 2.0008 |cls_loss 0.7281 |iou_loss 1.4617 |num_fg 5.6435 
+2023-12-15-04-47: train epoch: 47 |loss 4.188076 | conf_loss 1.999685 | cls_loss 0.727229 | iou_loss 1.461162 | num_fg 5.644822 | time 17.333333 | 
+2023-12-15-04-47: epoch 47, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-04-49: coco_CSPDarknet-s_640x640| train: total_epoch[48/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02649319 |loss 4.1778 |conf_loss 1.9957 |cls_loss 0.7243 |iou_loss 1.4578 |num_fg 5.6597 
+2023-12-15-04-51: coco_CSPDarknet-s_640x640| train: total_epoch[48/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02648342 |loss 4.1823 |conf_loss 1.9962 |cls_loss 0.7254 |iou_loss 1.4606 |num_fg 5.6516 
+2023-12-15-04-54: coco_CSPDarknet-s_640x640| train: total_epoch[48/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02647363 |loss 4.1757 |conf_loss 1.9913 |cls_loss 0.7257 |iou_loss 1.4586 |num_fg 5.6521 
+2023-12-15-04-56: coco_CSPDarknet-s_640x640| train: total_epoch[48/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02646382 |loss 4.1820 |conf_loss 1.9950 |cls_loss 0.7266 |iou_loss 1.4604 |num_fg 5.6510 
+2023-12-15-04-58: coco_CSPDarknet-s_640x640| train: total_epoch[48/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02645397 |loss 4.1817 |conf_loss 1.9954 |cls_loss 0.7261 |iou_loss 1.4603 |num_fg 5.6517 
+2023-12-15-05-00: coco_CSPDarknet-s_640x640| train: total_epoch[48/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02644410 |loss 4.1823 |conf_loss 1.9959 |cls_loss 0.7262 |iou_loss 1.4603 |num_fg 5.6530 
+2023-12-15-05-03: coco_CSPDarknet-s_640x640| train: total_epoch[48/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02643420 |loss 4.1814 |conf_loss 1.9952 |cls_loss 0.7261 |iou_loss 1.4601 |num_fg 5.6534 
+2023-12-15-05-04: train epoch: 48 |loss 4.181575 | conf_loss 1.995313 | cls_loss 0.726169 | iou_loss 1.460093 | num_fg 5.653017 | time 17.300000 | 
+2023-12-15-05-04: epoch 48, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-05-07: coco_CSPDarknet-s_640x640| train: total_epoch[49/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02641651 |loss 4.1583 |conf_loss 1.9780 |cls_loss 0.7224 |iou_loss 1.4579 |num_fg 5.6464 
+2023-12-15-05-09: coco_CSPDarknet-s_640x640| train: total_epoch[49/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02640654 |loss 4.1557 |conf_loss 1.9772 |cls_loss 0.7221 |iou_loss 1.4565 |num_fg 5.6565 
+2023-12-15-05-11: coco_CSPDarknet-s_640x640| train: total_epoch[49/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02639654 |loss 4.1572 |conf_loss 1.9787 |cls_loss 0.7230 |iou_loss 1.4555 |num_fg 5.6595 
+2023-12-15-05-13: coco_CSPDarknet-s_640x640| train: total_epoch[49/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02638651 |loss 4.1538 |conf_loss 1.9773 |cls_loss 0.7233 |iou_loss 1.4533 |num_fg 5.6645 
+2023-12-15-05-15: coco_CSPDarknet-s_640x640| train: total_epoch[49/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02637645 |loss 4.1580 |conf_loss 1.9809 |cls_loss 0.7233 |iou_loss 1.4538 |num_fg 5.6619 
+2023-12-15-05-18: coco_CSPDarknet-s_640x640| train: total_epoch[49/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02636637 |loss 4.1615 |conf_loss 1.9832 |cls_loss 0.7242 |iou_loss 1.4541 |num_fg 5.6613 
+2023-12-15-05-20: coco_CSPDarknet-s_640x640| train: total_epoch[49/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02635626 |loss 4.1623 |conf_loss 1.9845 |cls_loss 0.7243 |iou_loss 1.4535 |num_fg 5.6630 
+2023-12-15-05-22: train epoch: 49 |loss 4.163095 | conf_loss 1.984816 | cls_loss 0.724170 | iou_loss 1.454110 | num_fg 5.661632 | time 17.300000 | 
+2023-12-15-05-22: epoch 49, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-05-24: coco_CSPDarknet-s_640x640| train: total_epoch[50/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02633820 |loss 4.1553 |conf_loss 1.9805 |cls_loss 0.7244 |iou_loss 1.4504 |num_fg 5.6587 
+2023-12-15-05-26: coco_CSPDarknet-s_640x640| train: total_epoch[50/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02632802 |loss 4.1666 |conf_loss 1.9875 |cls_loss 0.7251 |iou_loss 1.4540 |num_fg 5.6525 
+2023-12-15-05-28: coco_CSPDarknet-s_640x640| train: total_epoch[50/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02631781 |loss 4.1573 |conf_loss 1.9817 |cls_loss 0.7243 |iou_loss 1.4512 |num_fg 5.6590 
+2023-12-15-05-31: coco_CSPDarknet-s_640x640| train: total_epoch[50/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02630757 |loss 4.1593 |conf_loss 1.9825 |cls_loss 0.7237 |iou_loss 1.4532 |num_fg 5.6547 
+2023-12-15-05-33: coco_CSPDarknet-s_640x640| train: total_epoch[50/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02629731 |loss 4.1626 |conf_loss 1.9846 |cls_loss 0.7242 |iou_loss 1.4539 |num_fg 5.6573 
+2023-12-15-05-35: coco_CSPDarknet-s_640x640| train: total_epoch[50/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02628701 |loss 4.1625 |conf_loss 1.9851 |cls_loss 0.7240 |iou_loss 1.4535 |num_fg 5.6605 
+2023-12-15-05-37: coco_CSPDarknet-s_640x640| train: total_epoch[50/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02627670 |loss 4.1630 |conf_loss 1.9855 |cls_loss 0.7240 |iou_loss 1.4535 |num_fg 5.6576 
+2023-12-15-05-39: train epoch: 50 |loss 4.162531 | conf_loss 1.985841 | cls_loss 0.723629 | iou_loss 1.453061 | num_fg 5.658891 | time 17.333333 | 
+2023-12-15-05-39: epoch 50, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-05-41: coco_CSPDarknet-s_640x640| train: total_epoch[51/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02625826 |loss 4.1506 |conf_loss 1.9772 |cls_loss 0.7172 |iou_loss 1.4562 |num_fg 5.6437 
+2023-12-15-05-44: coco_CSPDarknet-s_640x640| train: total_epoch[51/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02624787 |loss 4.1533 |conf_loss 1.9807 |cls_loss 0.7196 |iou_loss 1.4530 |num_fg 5.6534 
+2023-12-15-05-46: coco_CSPDarknet-s_640x640| train: total_epoch[51/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02623745 |loss 4.1610 |conf_loss 1.9853 |cls_loss 0.7223 |iou_loss 1.4534 |num_fg 5.6548 
+2023-12-15-05-48: coco_CSPDarknet-s_640x640| train: total_epoch[51/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02622701 |loss 4.1600 |conf_loss 1.9854 |cls_loss 0.7213 |iou_loss 1.4533 |num_fg 5.6582 
+2023-12-15-05-50: coco_CSPDarknet-s_640x640| train: total_epoch[51/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02621654 |loss 4.1575 |conf_loss 1.9830 |cls_loss 0.7215 |iou_loss 1.4530 |num_fg 5.6609 
+2023-12-15-05-52: coco_CSPDarknet-s_640x640| train: total_epoch[51/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02620604 |loss 4.1588 |conf_loss 1.9834 |cls_loss 0.7222 |iou_loss 1.4531 |num_fg 5.6604 
+2023-12-15-05-55: coco_CSPDarknet-s_640x640| train: total_epoch[51/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02619551 |loss 4.1602 |conf_loss 1.9837 |cls_loss 0.7226 |iou_loss 1.4539 |num_fg 5.6584 
+2023-12-15-05-56: train epoch: 51 |loss 4.157789 | conf_loss 1.982252 | cls_loss 0.722519 | iou_loss 1.453018 | num_fg 5.661442 | time 17.450000 | 
+2023-12-15-05-56: epoch 51, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-05-59: coco_CSPDarknet-s_640x640| train: total_epoch[52/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02617671 |loss 4.1476 |conf_loss 1.9709 |cls_loss 0.7242 |iou_loss 1.4525 |num_fg 5.6673 
+2023-12-15-06-01: coco_CSPDarknet-s_640x640| train: total_epoch[52/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02616611 |loss 4.1506 |conf_loss 1.9760 |cls_loss 0.7221 |iou_loss 1.4526 |num_fg 5.6725 
+2023-12-15-06-03: coco_CSPDarknet-s_640x640| train: total_epoch[52/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02615549 |loss 4.1522 |conf_loss 1.9763 |cls_loss 0.7220 |iou_loss 1.4538 |num_fg 5.6692 
+2023-12-15-06-06: coco_CSPDarknet-s_640x640| train: total_epoch[52/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02614484 |loss 4.1509 |conf_loss 1.9757 |cls_loss 0.7218 |iou_loss 1.4534 |num_fg 5.6657 
+2023-12-15-06-08: coco_CSPDarknet-s_640x640| train: total_epoch[52/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02613416 |loss 4.1523 |conf_loss 1.9768 |cls_loss 0.7226 |iou_loss 1.4529 |num_fg 5.6653 
+2023-12-15-06-10: coco_CSPDarknet-s_640x640| train: total_epoch[52/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02612345 |loss 4.1515 |conf_loss 1.9763 |cls_loss 0.7229 |iou_loss 1.4522 |num_fg 5.6665 
+2023-12-15-06-12: coco_CSPDarknet-s_640x640| train: total_epoch[52/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02611272 |loss 4.1516 |conf_loss 1.9760 |cls_loss 0.7229 |iou_loss 1.4527 |num_fg 5.6631 
+2023-12-15-06-14: train epoch: 52 |loss 4.151036 | conf_loss 1.976339 | cls_loss 0.722440 | iou_loss 1.452256 | num_fg 5.664404 | time 17.366667 | 
+2023-12-15-06-14: epoch 52, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-06-16: coco_CSPDarknet-s_640x640| train: total_epoch[53/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02609355 |loss 4.1303 |conf_loss 1.9660 |cls_loss 0.7189 |iou_loss 1.4455 |num_fg 5.6767 
+2023-12-15-06-18: coco_CSPDarknet-s_640x640| train: total_epoch[53/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02608275 |loss 4.1356 |conf_loss 1.9664 |cls_loss 0.7221 |iou_loss 1.4471 |num_fg 5.6798 
+2023-12-15-06-21: coco_CSPDarknet-s_640x640| train: total_epoch[53/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02607192 |loss 4.1415 |conf_loss 1.9701 |cls_loss 0.7225 |iou_loss 1.4490 |num_fg 5.6756 
+2023-12-15-06-23: coco_CSPDarknet-s_640x640| train: total_epoch[53/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02606106 |loss 4.1401 |conf_loss 1.9694 |cls_loss 0.7224 |iou_loss 1.4483 |num_fg 5.6747 
+2023-12-15-06-25: coco_CSPDarknet-s_640x640| train: total_epoch[53/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02605018 |loss 4.1363 |conf_loss 1.9681 |cls_loss 0.7211 |iou_loss 1.4472 |num_fg 5.6781 
+2023-12-15-06-27: coco_CSPDarknet-s_640x640| train: total_epoch[53/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02603927 |loss 4.1403 |conf_loss 1.9724 |cls_loss 0.7211 |iou_loss 1.4468 |num_fg 5.6784 
+2023-12-15-06-30: coco_CSPDarknet-s_640x640| train: total_epoch[53/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02602834 |loss 4.1361 |conf_loss 1.9698 |cls_loss 0.7203 |iou_loss 1.4460 |num_fg 5.6805 
+2023-12-15-06-31: train epoch: 53 |loss 4.134890 | conf_loss 1.969247 | cls_loss 0.720235 | iou_loss 1.445408 | num_fg 5.680300 | time 17.383333 | 
+2023-12-15-06-31: epoch 53, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-06-34: coco_CSPDarknet-s_640x640| train: total_epoch[54/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02600881 |loss 4.1564 |conf_loss 1.9833 |cls_loss 0.7243 |iou_loss 1.4487 |num_fg 5.6745 
+2023-12-15-06-36: coco_CSPDarknet-s_640x640| train: total_epoch[54/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02599780 |loss 4.1405 |conf_loss 1.9736 |cls_loss 0.7221 |iou_loss 1.4448 |num_fg 5.6748 
+2023-12-15-06-38: coco_CSPDarknet-s_640x640| train: total_epoch[54/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02598676 |loss 4.1339 |conf_loss 1.9705 |cls_loss 0.7200 |iou_loss 1.4435 |num_fg 5.6798 
+2023-12-15-06-40: coco_CSPDarknet-s_640x640| train: total_epoch[54/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02597570 |loss 4.1388 |conf_loss 1.9733 |cls_loss 0.7203 |iou_loss 1.4452 |num_fg 5.6753 
+2023-12-15-06-42: coco_CSPDarknet-s_640x640| train: total_epoch[54/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02596462 |loss 4.1367 |conf_loss 1.9715 |cls_loss 0.7202 |iou_loss 1.4450 |num_fg 5.6767 
+2023-12-15-06-45: coco_CSPDarknet-s_640x640| train: total_epoch[54/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02595351 |loss 4.1362 |conf_loss 1.9713 |cls_loss 0.7201 |iou_loss 1.4448 |num_fg 5.6758 
+2023-12-15-06-47: coco_CSPDarknet-s_640x640| train: total_epoch[54/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02594237 |loss 4.1332 |conf_loss 1.9700 |cls_loss 0.7196 |iou_loss 1.4436 |num_fg 5.6788 
+2023-12-15-06-48: train epoch: 54 |loss 4.131283 | conf_loss 1.968427 | cls_loss 0.719451 | iou_loss 1.443405 | num_fg 5.678774 | time 17.283333 | 
+2023-12-15-06-48: epoch 54, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-06-51: coco_CSPDarknet-s_640x640| train: total_epoch[55/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02592248 |loss 4.1250 |conf_loss 1.9657 |cls_loss 0.7179 |iou_loss 1.4415 |num_fg 5.6980 
+2023-12-15-06-53: coco_CSPDarknet-s_640x640| train: total_epoch[55/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02591127 |loss 4.1336 |conf_loss 1.9738 |cls_loss 0.7188 |iou_loss 1.4410 |num_fg 5.6957 
+2023-12-15-06-55: coco_CSPDarknet-s_640x640| train: total_epoch[55/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02590003 |loss 4.1325 |conf_loss 1.9730 |cls_loss 0.7182 |iou_loss 1.4413 |num_fg 5.6936 
+2023-12-15-06-58: coco_CSPDarknet-s_640x640| train: total_epoch[55/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02588877 |loss 4.1338 |conf_loss 1.9723 |cls_loss 0.7187 |iou_loss 1.4427 |num_fg 5.6914 
+2023-12-15-07-00: coco_CSPDarknet-s_640x640| train: total_epoch[55/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02587748 |loss 4.1391 |conf_loss 1.9754 |cls_loss 0.7195 |iou_loss 1.4442 |num_fg 5.6849 
+2023-12-15-07-02: coco_CSPDarknet-s_640x640| train: total_epoch[55/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02586617 |loss 4.1394 |conf_loss 1.9752 |cls_loss 0.7201 |iou_loss 1.4441 |num_fg 5.6842 
+2023-12-15-07-04: coco_CSPDarknet-s_640x640| train: total_epoch[55/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02585483 |loss 4.1417 |conf_loss 1.9773 |cls_loss 0.7201 |iou_loss 1.4443 |num_fg 5.6840 
+2023-12-15-07-06: train epoch: 55 |loss 4.140704 | conf_loss 1.976406 | cls_loss 0.719849 | iou_loss 1.444449 | num_fg 5.684327 | time 17.366667 | 
+2023-12-15-07-06: epoch 55, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-07-08: coco_CSPDarknet-s_640x640| train: total_epoch[56/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02583458 |loss 4.1205 |conf_loss 1.9634 |cls_loss 0.7187 |iou_loss 1.4384 |num_fg 5.6897 
+2023-12-15-07-10: coco_CSPDarknet-s_640x640| train: total_epoch[56/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02582317 |loss 4.1218 |conf_loss 1.9620 |cls_loss 0.7190 |iou_loss 1.4409 |num_fg 5.6896 
+2023-12-15-07-13: coco_CSPDarknet-s_640x640| train: total_epoch[56/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02581173 |loss 4.1302 |conf_loss 1.9655 |cls_loss 0.7209 |iou_loss 1.4437 |num_fg 5.6846 
+2023-12-15-07-15: coco_CSPDarknet-s_640x640| train: total_epoch[56/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02580027 |loss 4.1284 |conf_loss 1.9661 |cls_loss 0.7203 |iou_loss 1.4420 |num_fg 5.6857 
+2023-12-15-07-17: coco_CSPDarknet-s_640x640| train: total_epoch[56/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02578878 |loss 4.1261 |conf_loss 1.9638 |cls_loss 0.7200 |iou_loss 1.4423 |num_fg 5.6807 
+2023-12-15-07-19: coco_CSPDarknet-s_640x640| train: total_epoch[56/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02577727 |loss 4.1262 |conf_loss 1.9630 |cls_loss 0.7201 |iou_loss 1.4431 |num_fg 5.6790 
+2023-12-15-07-21: coco_CSPDarknet-s_640x640| train: total_epoch[56/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02576573 |loss 4.1259 |conf_loss 1.9631 |cls_loss 0.7197 |iou_loss 1.4432 |num_fg 5.6800 
+2023-12-15-07-23: train epoch: 56 |loss 4.124763 | conf_loss 1.962878 | cls_loss 0.719321 | iou_loss 1.442564 | num_fg 5.679918 | time 17.216667 | 
+2023-12-15-07-23: epoch 56, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-07-25: coco_CSPDarknet-s_640x640| train: total_epoch[57/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02574513 |loss 4.1305 |conf_loss 1.9648 |cls_loss 0.7192 |iou_loss 1.4464 |num_fg 5.6747 
+2023-12-15-07-28: coco_CSPDarknet-s_640x640| train: total_epoch[57/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02573352 |loss 4.1225 |conf_loss 1.9631 |cls_loss 0.7179 |iou_loss 1.4415 |num_fg 5.6882 
+2023-12-15-07-30: coco_CSPDarknet-s_640x640| train: total_epoch[57/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02572188 |loss 4.1301 |conf_loss 1.9660 |cls_loss 0.7198 |iou_loss 1.4444 |num_fg 5.6800 
+2023-12-15-07-32: coco_CSPDarknet-s_640x640| train: total_epoch[57/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02571022 |loss 4.1248 |conf_loss 1.9628 |cls_loss 0.7192 |iou_loss 1.4427 |num_fg 5.6835 
+2023-12-15-07-34: coco_CSPDarknet-s_640x640| train: total_epoch[57/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02569854 |loss 4.1237 |conf_loss 1.9629 |cls_loss 0.7188 |iou_loss 1.4420 |num_fg 5.6824 
+2023-12-15-07-36: coco_CSPDarknet-s_640x640| train: total_epoch[57/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02568683 |loss 4.1262 |conf_loss 1.9654 |cls_loss 0.7192 |iou_loss 1.4416 |num_fg 5.6840 
+2023-12-15-07-39: coco_CSPDarknet-s_640x640| train: total_epoch[57/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02567509 |loss 4.1289 |conf_loss 1.9674 |cls_loss 0.7192 |iou_loss 1.4423 |num_fg 5.6843 
+2023-12-15-07-40: train epoch: 57 |loss 4.128925 | conf_loss 1.967565 | cls_loss 0.718949 | iou_loss 1.442412 | num_fg 5.682891 | time 17.216667 | 
+2023-12-15-07-40: epoch 57, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-07-43: coco_CSPDarknet-s_640x640| train: total_epoch[58/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02565413 |loss 4.1193 |conf_loss 1.9639 |cls_loss 0.7169 |iou_loss 1.4385 |num_fg 5.6895 
+2023-12-15-07-45: coco_CSPDarknet-s_640x640| train: total_epoch[58/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02564233 |loss 4.1201 |conf_loss 1.9642 |cls_loss 0.7171 |iou_loss 1.4388 |num_fg 5.6860 
+2023-12-15-07-47: coco_CSPDarknet-s_640x640| train: total_epoch[58/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02563049 |loss 4.1271 |conf_loss 1.9691 |cls_loss 0.7189 |iou_loss 1.4391 |num_fg 5.6881 
+2023-12-15-07-49: coco_CSPDarknet-s_640x640| train: total_epoch[58/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02561864 |loss 4.1265 |conf_loss 1.9681 |cls_loss 0.7195 |iou_loss 1.4389 |num_fg 5.6915 
+2023-12-15-07-52: coco_CSPDarknet-s_640x640| train: total_epoch[58/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02560675 |loss 4.1240 |conf_loss 1.9659 |cls_loss 0.7191 |iou_loss 1.4390 |num_fg 5.6944 
+2023-12-15-07-54: coco_CSPDarknet-s_640x640| train: total_epoch[58/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02559485 |loss 4.1240 |conf_loss 1.9651 |cls_loss 0.7193 |iou_loss 1.4396 |num_fg 5.6933 
+2023-12-15-07-56: coco_CSPDarknet-s_640x640| train: total_epoch[58/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02558291 |loss 4.1241 |conf_loss 1.9652 |cls_loss 0.7193 |iou_loss 1.4396 |num_fg 5.6928 
+2023-12-15-07-58: train epoch: 58 |loss 4.121334 | conf_loss 1.963279 | cls_loss 0.719146 | iou_loss 1.438909 | num_fg 5.692872 | time 17.250000 | 
+2023-12-15-07-58: epoch 58, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-08-00: coco_CSPDarknet-s_640x640| train: total_epoch[59/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02556161 |loss 4.1132 |conf_loss 1.9598 |cls_loss 0.7183 |iou_loss 1.4351 |num_fg 5.7109 
+2023-12-15-08-02: coco_CSPDarknet-s_640x640| train: total_epoch[59/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02554961 |loss 4.1158 |conf_loss 1.9584 |cls_loss 0.7180 |iou_loss 1.4394 |num_fg 5.6961 
+2023-12-15-08-04: coco_CSPDarknet-s_640x640| train: total_epoch[59/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02553758 |loss 4.1204 |conf_loss 1.9619 |cls_loss 0.7186 |iou_loss 1.4400 |num_fg 5.6960 
+2023-12-15-08-07: coco_CSPDarknet-s_640x640| train: total_epoch[59/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02552552 |loss 4.1156 |conf_loss 1.9571 |cls_loss 0.7181 |iou_loss 1.4404 |num_fg 5.6953 
+2023-12-15-08-09: coco_CSPDarknet-s_640x640| train: total_epoch[59/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02551345 |loss 4.1166 |conf_loss 1.9579 |cls_loss 0.7182 |iou_loss 1.4404 |num_fg 5.6944 
+2023-12-15-08-11: coco_CSPDarknet-s_640x640| train: total_epoch[59/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02550134 |loss 4.1140 |conf_loss 1.9562 |cls_loss 0.7175 |iou_loss 1.4403 |num_fg 5.6915 
+2023-12-15-08-13: coco_CSPDarknet-s_640x640| train: total_epoch[59/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02548921 |loss 4.1145 |conf_loss 1.9572 |cls_loss 0.7175 |iou_loss 1.4397 |num_fg 5.6914 
+2023-12-15-08-15: train epoch: 59 |loss 4.114099 | conf_loss 1.957269 | cls_loss 0.717161 | iou_loss 1.439669 | num_fg 5.690723 | time 17.316667 | 
+2023-12-15-08-15: epoch 59, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-08-17: coco_CSPDarknet-s_640x640| train: total_epoch[60/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02546757 |loss 4.0974 |conf_loss 1.9512 |cls_loss 0.7168 |iou_loss 1.4294 |num_fg 5.7084 
+2023-12-15-08-19: coco_CSPDarknet-s_640x640| train: total_epoch[60/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02545537 |loss 4.0983 |conf_loss 1.9504 |cls_loss 0.7168 |iou_loss 1.4311 |num_fg 5.7076 
+2023-12-15-08-22: coco_CSPDarknet-s_640x640| train: total_epoch[60/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02544315 |loss 4.1006 |conf_loss 1.9503 |cls_loss 0.7171 |iou_loss 1.4332 |num_fg 5.7055 
+2023-12-15-08-24: coco_CSPDarknet-s_640x640| train: total_epoch[60/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02543090 |loss 4.1042 |conf_loss 1.9505 |cls_loss 0.7175 |iou_loss 1.4362 |num_fg 5.6981 
+2023-12-15-08-26: coco_CSPDarknet-s_640x640| train: total_epoch[60/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02541863 |loss 4.1006 |conf_loss 1.9487 |cls_loss 0.7170 |iou_loss 1.4349 |num_fg 5.7011 
+2023-12-15-08-28: coco_CSPDarknet-s_640x640| train: total_epoch[60/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02540633 |loss 4.1033 |conf_loss 1.9506 |cls_loss 0.7167 |iou_loss 1.4361 |num_fg 5.6981 
+2023-12-15-08-31: coco_CSPDarknet-s_640x640| train: total_epoch[60/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02539401 |loss 4.1024 |conf_loss 1.9506 |cls_loss 0.7164 |iou_loss 1.4353 |num_fg 5.6991 
+2023-12-15-08-32: train epoch: 60 |loss 4.104633 | conf_loss 1.951696 | cls_loss 0.716633 | iou_loss 1.436305 | num_fg 5.696949 | time 17.333333 | 
+2023-12-15-08-32: ----------epoch 60 start evaluate----------
+2023-12-15-08-33: coco_CSPDarknet-s_640x640| val: total_epoch[60/300] batch[50/406] |size: 180x3x416x416 |lr: 0.02538438 |loss 3.3361 |conf_loss 1.5572 |cls_loss 0.5838 |iou_loss 1.1951 |num_fg 6.3516 
+2023-12-15-08-35: coco_CSPDarknet-s_640x640| val: total_epoch[60/300] batch[100/406] |size: 180x3x416x416 |lr: 0.02538438 |loss 3.3411 |conf_loss 1.5607 |cls_loss 0.5838 |iou_loss 1.1966 |num_fg 6.3640 
+2023-12-15-08-36: coco_CSPDarknet-s_640x640| val: total_epoch[60/300] batch[150/406] |size: 180x3x416x416 |lr: 0.02538438 |loss 3.3478 |conf_loss 1.5655 |cls_loss 0.5845 |iou_loss 1.1977 |num_fg 6.3584 
+2023-12-15-08-37: coco_CSPDarknet-s_640x640| val: total_epoch[60/300] batch[200/406] |size: 180x3x416x416 |lr: 0.02538438 |loss 3.3498 |conf_loss 1.5676 |cls_loss 0.5842 |iou_loss 1.1980 |num_fg 6.3549 
+2023-12-15-08-38: coco_CSPDarknet-s_640x640| val: total_epoch[60/300] batch[250/406] |size: 180x3x416x416 |lr: 0.02538438 |loss 3.3527 |conf_loss 1.5678 |cls_loss 0.5848 |iou_loss 1.2001 |num_fg 6.3517 
+2023-12-15-08-39: coco_CSPDarknet-s_640x640| val: total_epoch[60/300] batch[300/406] |size: 180x3x416x416 |lr: 0.02538438 |loss 3.3524 |conf_loss 1.5676 |cls_loss 0.5849 |iou_loss 1.1999 |num_fg 6.3490 
+2023-12-15-08-40: coco_CSPDarknet-s_640x640| val: total_epoch[60/300] batch[350/406] |size: 180x3x416x416 |lr: 0.02538438 |loss 3.3518 |conf_loss 1.5671 |cls_loss 0.5846 |iou_loss 1.2000 |num_fg 6.3496 
+2023-12-15-08-41: coco_CSPDarknet-s_640x640| val: total_epoch[60/300] batch[400/406] |size: 180x3x416x416 |lr: 0.02538438 |loss 3.3542 |conf_loss 1.5678 |cls_loss 0.5849 |iou_loss 1.2015 |num_fg 6.3454 
+2023-12-15-08-42: ----------epoch 60 evaluating ----------
+2023-12-15-08-42: val epoch: 60 |loss 3.354989 | conf_loss 1.568679 | cls_loss 0.584937 | iou_loss 1.201373 | num_fg 6.345815 | time 9.366667 | AP 0.293898 | AP_0.5 0.490405 | AP_0.75 0.305241 | AP_small 0.031873 | AP_medium 0.218950 | AP_large 0.492707 | 
+2023-12-15-08-50: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.294
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.490
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.305
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.032
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.219
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.493
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.224
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.390
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.417
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.083
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.402
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.625
+
+2023-12-15-08-50: epoch 60, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_best.pth
+2023-12-15-08-50: epoch 60, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_60.pth
+2023-12-15-08-50: epoch 60, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-08-53: coco_CSPDarknet-s_640x640| train: total_epoch[61/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02537202 |loss 4.0923 |conf_loss 1.9513 |cls_loss 0.7110 |iou_loss 1.4300 |num_fg 5.7213 
+2023-12-15-08-55: coco_CSPDarknet-s_640x640| train: total_epoch[61/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02535963 |loss 4.0860 |conf_loss 1.9449 |cls_loss 0.7119 |iou_loss 1.4292 |num_fg 5.7219 
+2023-12-15-08-57: coco_CSPDarknet-s_640x640| train: total_epoch[61/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02534722 |loss 4.0867 |conf_loss 1.9449 |cls_loss 0.7121 |iou_loss 1.4296 |num_fg 5.7212 
+2023-12-15-08-59: coco_CSPDarknet-s_640x640| train: total_epoch[61/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02533478 |loss 4.0936 |conf_loss 1.9480 |cls_loss 0.7137 |iou_loss 1.4320 |num_fg 5.7144 
+2023-12-15-09-02: coco_CSPDarknet-s_640x640| train: total_epoch[61/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02532231 |loss 4.0944 |conf_loss 1.9471 |cls_loss 0.7138 |iou_loss 1.4336 |num_fg 5.7101 
+2023-12-15-09-04: coco_CSPDarknet-s_640x640| train: total_epoch[61/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02530983 |loss 4.0935 |conf_loss 1.9459 |cls_loss 0.7142 |iou_loss 1.4334 |num_fg 5.7109 
+2023-12-15-09-06: coco_CSPDarknet-s_640x640| train: total_epoch[61/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02529731 |loss 4.0935 |conf_loss 1.9459 |cls_loss 0.7142 |iou_loss 1.4333 |num_fg 5.7104 
+2023-12-15-09-08: train epoch: 61 |loss 4.096480 | conf_loss 1.947961 | cls_loss 0.714582 | iou_loss 1.433937 | num_fg 5.707945 | time 17.800000 | 
+2023-12-15-09-08: epoch 61, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-09-10: coco_CSPDarknet-s_640x640| train: total_epoch[62/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02527498 |loss 4.0925 |conf_loss 1.9561 |cls_loss 0.7109 |iou_loss 1.4255 |num_fg 5.7262 
+2023-12-15-09-13: coco_CSPDarknet-s_640x640| train: total_epoch[62/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02526240 |loss 4.0936 |conf_loss 1.9546 |cls_loss 0.7116 |iou_loss 1.4274 |num_fg 5.7247 
+2023-12-15-09-15: coco_CSPDarknet-s_640x640| train: total_epoch[62/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02524980 |loss 4.0935 |conf_loss 1.9531 |cls_loss 0.7119 |iou_loss 1.4285 |num_fg 5.7196 
+2023-12-15-09-17: coco_CSPDarknet-s_640x640| train: total_epoch[62/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02523717 |loss 4.0919 |conf_loss 1.9510 |cls_loss 0.7117 |iou_loss 1.4293 |num_fg 5.7146 
+2023-12-15-09-19: coco_CSPDarknet-s_640x640| train: total_epoch[62/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02522451 |loss 4.0928 |conf_loss 1.9495 |cls_loss 0.7117 |iou_loss 1.4316 |num_fg 5.7120 
+2023-12-15-09-22: coco_CSPDarknet-s_640x640| train: total_epoch[62/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02521184 |loss 4.0932 |conf_loss 1.9493 |cls_loss 0.7123 |iou_loss 1.4316 |num_fg 5.7110 
+2023-12-15-09-24: coco_CSPDarknet-s_640x640| train: total_epoch[62/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02519914 |loss 4.0937 |conf_loss 1.9488 |cls_loss 0.7129 |iou_loss 1.4320 |num_fg 5.7108 
+2023-12-15-09-25: train epoch: 62 |loss 4.094220 | conf_loss 1.948748 | cls_loss 0.713453 | iou_loss 1.432019 | num_fg 5.712153 | time 17.433333 | 
+2023-12-15-09-25: epoch 62, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-09-28: coco_CSPDarknet-s_640x640| train: total_epoch[63/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02517647 |loss 4.1284 |conf_loss 1.9675 |cls_loss 0.7180 |iou_loss 1.4429 |num_fg 5.6762 
+2023-12-15-09-30: coco_CSPDarknet-s_640x640| train: total_epoch[63/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02516370 |loss 4.1078 |conf_loss 1.9569 |cls_loss 0.7151 |iou_loss 1.4358 |num_fg 5.6954 
+2023-12-15-09-32: coco_CSPDarknet-s_640x640| train: total_epoch[63/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02515090 |loss 4.1049 |conf_loss 1.9533 |cls_loss 0.7164 |iou_loss 1.4352 |num_fg 5.6955 
+2023-12-15-09-35: coco_CSPDarknet-s_640x640| train: total_epoch[63/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02513809 |loss 4.1019 |conf_loss 1.9504 |cls_loss 0.7159 |iou_loss 1.4356 |num_fg 5.6971 
+2023-12-15-09-37: coco_CSPDarknet-s_640x640| train: total_epoch[63/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02512525 |loss 4.0976 |conf_loss 1.9476 |cls_loss 0.7154 |iou_loss 1.4345 |num_fg 5.7003 
+2023-12-15-09-39: coco_CSPDarknet-s_640x640| train: total_epoch[63/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02511238 |loss 4.0968 |conf_loss 1.9483 |cls_loss 0.7151 |iou_loss 1.4334 |num_fg 5.7042 
+2023-12-15-09-41: coco_CSPDarknet-s_640x640| train: total_epoch[63/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02509949 |loss 4.0943 |conf_loss 1.9470 |cls_loss 0.7143 |iou_loss 1.4330 |num_fg 5.7063 
+2023-12-15-09-43: train epoch: 63 |loss 4.093410 | conf_loss 1.946685 | cls_loss 0.714332 | iou_loss 1.432393 | num_fg 5.706961 | time 17.300000 | 
+2023-12-15-09-43: epoch 63, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-09-45: coco_CSPDarknet-s_640x640| train: total_epoch[64/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02507649 |loss 4.0853 |conf_loss 1.9466 |cls_loss 0.7126 |iou_loss 1.4261 |num_fg 5.7274 
+2023-12-15-09-48: coco_CSPDarknet-s_640x640| train: total_epoch[64/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02506353 |loss 4.0999 |conf_loss 1.9535 |cls_loss 0.7147 |iou_loss 1.4318 |num_fg 5.7137 
+2023-12-15-09-50: coco_CSPDarknet-s_640x640| train: total_epoch[64/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02505055 |loss 4.0955 |conf_loss 1.9486 |cls_loss 0.7137 |iou_loss 1.4332 |num_fg 5.7076 
+2023-12-15-09-52: coco_CSPDarknet-s_640x640| train: total_epoch[64/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02503755 |loss 4.0906 |conf_loss 1.9457 |cls_loss 0.7126 |iou_loss 1.4323 |num_fg 5.7086 
+2023-12-15-09-54: coco_CSPDarknet-s_640x640| train: total_epoch[64/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02502452 |loss 4.0937 |conf_loss 1.9477 |cls_loss 0.7134 |iou_loss 1.4327 |num_fg 5.7072 
+2023-12-15-09-56: coco_CSPDarknet-s_640x640| train: total_epoch[64/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02501147 |loss 4.0928 |conf_loss 1.9473 |cls_loss 0.7135 |iou_loss 1.4320 |num_fg 5.7079 
+2023-12-15-10-00: coco_CSPDarknet-s_640x640| train: total_epoch[64/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02499839 |loss 4.0914 |conf_loss 1.9469 |cls_loss 0.7131 |iou_loss 1.4314 |num_fg 5.7103 
+2023-12-15-10-01: train epoch: 64 |loss 4.092450 | conf_loss 1.947596 | cls_loss 0.713427 | iou_loss 1.431428 | num_fg 5.711420 | time 18.383333 | 
+2023-12-15-10-01: epoch 64, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-10-04: coco_CSPDarknet-s_640x640| train: total_epoch[65/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02497506 |loss 4.0888 |conf_loss 1.9468 |cls_loss 0.7122 |iou_loss 1.4299 |num_fg 5.7124 
+2023-12-15-10-06: coco_CSPDarknet-s_640x640| train: total_epoch[65/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02496192 |loss 4.0939 |conf_loss 1.9495 |cls_loss 0.7136 |iou_loss 1.4309 |num_fg 5.7195 
+2023-12-15-10-08: coco_CSPDarknet-s_640x640| train: total_epoch[65/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02494876 |loss 4.0923 |conf_loss 1.9480 |cls_loss 0.7144 |iou_loss 1.4299 |num_fg 5.7201 
+2023-12-15-10-10: coco_CSPDarknet-s_640x640| train: total_epoch[65/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02493557 |loss 4.0889 |conf_loss 1.9458 |cls_loss 0.7136 |iou_loss 1.4295 |num_fg 5.7220 
+2023-12-15-10-13: coco_CSPDarknet-s_640x640| train: total_epoch[65/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02492236 |loss 4.0908 |conf_loss 1.9468 |cls_loss 0.7137 |iou_loss 1.4303 |num_fg 5.7160 
+2023-12-15-10-15: coco_CSPDarknet-s_640x640| train: total_epoch[65/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02490912 |loss 4.0898 |conf_loss 1.9468 |cls_loss 0.7134 |iou_loss 1.4296 |num_fg 5.7176 
+2023-12-15-10-17: coco_CSPDarknet-s_640x640| train: total_epoch[65/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02489586 |loss 4.0881 |conf_loss 1.9462 |cls_loss 0.7127 |iou_loss 1.4293 |num_fg 5.7179 
+2023-12-15-10-19: train epoch: 65 |loss 4.088118 | conf_loss 1.945984 | cls_loss 0.712308 | iou_loss 1.429826 | num_fg 5.716571 | time 17.500000 | 
+2023-12-15-10-19: epoch 65, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-10-21: coco_CSPDarknet-s_640x640| train: total_epoch[66/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02487220 |loss 4.0761 |conf_loss 1.9454 |cls_loss 0.7110 |iou_loss 1.4197 |num_fg 5.7333 
+2023-12-15-10-23: coco_CSPDarknet-s_640x640| train: total_epoch[66/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02485888 |loss 4.0710 |conf_loss 1.9414 |cls_loss 0.7093 |iou_loss 1.4203 |num_fg 5.7407 
+2023-12-15-10-26: coco_CSPDarknet-s_640x640| train: total_epoch[66/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02484553 |loss 4.0715 |conf_loss 1.9395 |cls_loss 0.7109 |iou_loss 1.4210 |num_fg 5.7324 
+2023-12-15-10-28: coco_CSPDarknet-s_640x640| train: total_epoch[66/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02483216 |loss 4.0781 |conf_loss 1.9429 |cls_loss 0.7120 |iou_loss 1.4231 |num_fg 5.7293 
+2023-12-15-10-30: coco_CSPDarknet-s_640x640| train: total_epoch[66/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02481876 |loss 4.0818 |conf_loss 1.9442 |cls_loss 0.7128 |iou_loss 1.4248 |num_fg 5.7268 
+2023-12-15-10-32: coco_CSPDarknet-s_640x640| train: total_epoch[66/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02480534 |loss 4.0845 |conf_loss 1.9457 |cls_loss 0.7131 |iou_loss 1.4257 |num_fg 5.7243 
+2023-12-15-10-34: coco_CSPDarknet-s_640x640| train: total_epoch[66/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02479190 |loss 4.0838 |conf_loss 1.9448 |cls_loss 0.7132 |iou_loss 1.4258 |num_fg 5.7233 
+2023-12-15-10-36: train epoch: 66 |loss 4.084913 | conf_loss 1.945339 | cls_loss 0.713207 | iou_loss 1.426367 | num_fg 5.723219 | time 17.350000 | 
+2023-12-15-10-36: epoch 66, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-10-39: coco_CSPDarknet-s_640x640| train: total_epoch[67/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02476792 |loss 4.0854 |conf_loss 1.9399 |cls_loss 0.7127 |iou_loss 1.4328 |num_fg 5.7060 
+2023-12-15-10-41: coco_CSPDarknet-s_640x640| train: total_epoch[67/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02475441 |loss 4.0856 |conf_loss 1.9434 |cls_loss 0.7120 |iou_loss 1.4302 |num_fg 5.7109 
+2023-12-15-10-43: coco_CSPDarknet-s_640x640| train: total_epoch[67/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02474088 |loss 4.0880 |conf_loss 1.9434 |cls_loss 0.7135 |iou_loss 1.4312 |num_fg 5.7088 
+2023-12-15-10-45: coco_CSPDarknet-s_640x640| train: total_epoch[67/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02472733 |loss 4.0848 |conf_loss 1.9417 |cls_loss 0.7136 |iou_loss 1.4295 |num_fg 5.7103 
+2023-12-15-10-47: coco_CSPDarknet-s_640x640| train: total_epoch[67/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02471376 |loss 4.0819 |conf_loss 1.9403 |cls_loss 0.7132 |iou_loss 1.4285 |num_fg 5.7128 
+2023-12-15-10-50: coco_CSPDarknet-s_640x640| train: total_epoch[67/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02470016 |loss 4.0791 |conf_loss 1.9382 |cls_loss 0.7129 |iou_loss 1.4281 |num_fg 5.7150 
+2023-12-15-10-52: coco_CSPDarknet-s_640x640| train: total_epoch[67/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02468653 |loss 4.0769 |conf_loss 1.9370 |cls_loss 0.7123 |iou_loss 1.4275 |num_fg 5.7149 
+2023-12-15-10-53: train epoch: 67 |loss 4.077872 | conf_loss 1.937464 | cls_loss 0.712600 | iou_loss 1.427807 | num_fg 5.714673 | time 17.316667 | 
+2023-12-15-10-53: epoch 67, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-10-56: coco_CSPDarknet-s_640x640| train: total_epoch[68/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02466223 |loss 4.0720 |conf_loss 1.9399 |cls_loss 0.7120 |iou_loss 1.4201 |num_fg 5.7366 
+2023-12-15-10-58: coco_CSPDarknet-s_640x640| train: total_epoch[68/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02464855 |loss 4.0686 |conf_loss 1.9336 |cls_loss 0.7114 |iou_loss 1.4235 |num_fg 5.7234 
+2023-12-15-11-00: coco_CSPDarknet-s_640x640| train: total_epoch[68/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02463484 |loss 4.0681 |conf_loss 1.9328 |cls_loss 0.7109 |iou_loss 1.4245 |num_fg 5.7248 
+2023-12-15-11-02: coco_CSPDarknet-s_640x640| train: total_epoch[68/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02462110 |loss 4.0689 |conf_loss 1.9336 |cls_loss 0.7111 |iou_loss 1.4241 |num_fg 5.7245 
+2023-12-15-11-05: coco_CSPDarknet-s_640x640| train: total_epoch[68/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02460735 |loss 4.0712 |conf_loss 1.9346 |cls_loss 0.7114 |iou_loss 1.4252 |num_fg 5.7220 
+2023-12-15-11-07: coco_CSPDarknet-s_640x640| train: total_epoch[68/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02459357 |loss 4.0705 |conf_loss 1.9337 |cls_loss 0.7119 |iou_loss 1.4248 |num_fg 5.7211 
+2023-12-15-11-09: coco_CSPDarknet-s_640x640| train: total_epoch[68/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02457977 |loss 4.0721 |conf_loss 1.9347 |cls_loss 0.7125 |iou_loss 1.4249 |num_fg 5.7208 
+2023-12-15-11-11: train epoch: 68 |loss 4.070324 | conf_loss 1.933911 | cls_loss 0.712027 | iou_loss 1.424386 | num_fg 5.723309 | time 17.383333 | 
+2023-12-15-11-11: epoch 68, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-11-13: coco_CSPDarknet-s_640x640| train: total_epoch[69/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02455515 |loss 4.0252 |conf_loss 1.9000 |cls_loss 0.7060 |iou_loss 1.4192 |num_fg 5.7455 
+2023-12-15-11-15: coco_CSPDarknet-s_640x640| train: total_epoch[69/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02454129 |loss 4.0479 |conf_loss 1.9158 |cls_loss 0.7090 |iou_loss 1.4231 |num_fg 5.7328 
+2023-12-15-11-18: coco_CSPDarknet-s_640x640| train: total_epoch[69/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02452740 |loss 4.0484 |conf_loss 1.9173 |cls_loss 0.7087 |iou_loss 1.4224 |num_fg 5.7296 
+2023-12-15-11-20: coco_CSPDarknet-s_640x640| train: total_epoch[69/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02451349 |loss 4.0587 |conf_loss 1.9235 |cls_loss 0.7099 |iou_loss 1.4252 |num_fg 5.7218 
+2023-12-15-11-22: coco_CSPDarknet-s_640x640| train: total_epoch[69/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02449956 |loss 4.0595 |conf_loss 1.9244 |cls_loss 0.7106 |iou_loss 1.4245 |num_fg 5.7222 
+2023-12-15-11-24: coco_CSPDarknet-s_640x640| train: total_epoch[69/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02448561 |loss 4.0611 |conf_loss 1.9254 |cls_loss 0.7110 |iou_loss 1.4247 |num_fg 5.7215 
+2023-12-15-11-27: coco_CSPDarknet-s_640x640| train: total_epoch[69/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02447163 |loss 4.0631 |conf_loss 1.9278 |cls_loss 0.7113 |iou_loss 1.4240 |num_fg 5.7220 
+2023-12-15-11-28: train epoch: 69 |loss 4.061484 | conf_loss 1.927743 | cls_loss 0.710719 | iou_loss 1.423022 | num_fg 5.724122 | time 17.416667 | 
+2023-12-15-11-28: epoch 69, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-11-31: coco_CSPDarknet-s_640x640| train: total_epoch[70/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02444670 |loss 4.0584 |conf_loss 1.9286 |cls_loss 0.7118 |iou_loss 1.4180 |num_fg 5.7327 
+2023-12-15-11-33: coco_CSPDarknet-s_640x640| train: total_epoch[70/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02443266 |loss 4.0654 |conf_loss 1.9304 |cls_loss 0.7130 |iou_loss 1.4221 |num_fg 5.7287 
+2023-12-15-11-35: coco_CSPDarknet-s_640x640| train: total_epoch[70/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02441860 |loss 4.0602 |conf_loss 1.9266 |cls_loss 0.7116 |iou_loss 1.4220 |num_fg 5.7340 
+2023-12-15-11-37: coco_CSPDarknet-s_640x640| train: total_epoch[70/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02440451 |loss 4.0579 |conf_loss 1.9254 |cls_loss 0.7108 |iou_loss 1.4217 |num_fg 5.7325 
+2023-12-15-11-39: coco_CSPDarknet-s_640x640| train: total_epoch[70/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02439041 |loss 4.0568 |conf_loss 1.9263 |cls_loss 0.7100 |iou_loss 1.4205 |num_fg 5.7346 
+2023-12-15-11-42: coco_CSPDarknet-s_640x640| train: total_epoch[70/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02437628 |loss 4.0572 |conf_loss 1.9265 |cls_loss 0.7103 |iou_loss 1.4204 |num_fg 5.7332 
+2023-12-15-11-44: coco_CSPDarknet-s_640x640| train: total_epoch[70/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02436213 |loss 4.0577 |conf_loss 1.9265 |cls_loss 0.7104 |iou_loss 1.4208 |num_fg 5.7308 
+2023-12-15-11-46: train epoch: 70 |loss 4.059386 | conf_loss 1.927668 | cls_loss 0.710634 | iou_loss 1.421084 | num_fg 5.729585 | time 17.316667 | 
+2023-12-15-11-46: epoch 70, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-11-48: coco_CSPDarknet-s_640x640| train: total_epoch[71/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02433688 |loss 4.0296 |conf_loss 1.9017 |cls_loss 0.7069 |iou_loss 1.4210 |num_fg 5.7125 
+2023-12-15-11-51: coco_CSPDarknet-s_640x640| train: total_epoch[71/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02432267 |loss 4.0450 |conf_loss 1.9130 |cls_loss 0.7097 |iou_loss 1.4223 |num_fg 5.7146 
+2023-12-15-11-53: coco_CSPDarknet-s_640x640| train: total_epoch[71/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02430843 |loss 4.0475 |conf_loss 1.9164 |cls_loss 0.7096 |iou_loss 1.4215 |num_fg 5.7210 
+2023-12-15-11-56: coco_CSPDarknet-s_640x640| train: total_epoch[71/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02429418 |loss 4.0496 |conf_loss 1.9192 |cls_loss 0.7100 |iou_loss 1.4204 |num_fg 5.7216 
+2023-12-15-11-59: coco_CSPDarknet-s_640x640| train: total_epoch[71/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02427990 |loss 4.0534 |conf_loss 1.9204 |cls_loss 0.7114 |iou_loss 1.4215 |num_fg 5.7202 
+2023-12-15-12-01: coco_CSPDarknet-s_640x640| train: total_epoch[71/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02426560 |loss 4.0552 |conf_loss 1.9229 |cls_loss 0.7114 |iou_loss 1.4210 |num_fg 5.7213 
+2023-12-15-12-04: coco_CSPDarknet-s_640x640| train: total_epoch[71/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02425127 |loss 4.0587 |conf_loss 1.9261 |cls_loss 0.7112 |iou_loss 1.4214 |num_fg 5.7212 
+2023-12-15-12-06: train epoch: 71 |loss 4.058479 | conf_loss 1.926253 | cls_loss 0.710711 | iou_loss 1.421515 | num_fg 5.722285 | time 20.183333 | 
+2023-12-15-12-06: epoch 71, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-12-09: coco_CSPDarknet-s_640x640| train: total_epoch[72/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02422572 |loss 4.0626 |conf_loss 1.9248 |cls_loss 0.7120 |iou_loss 1.4258 |num_fg 5.7292 
+2023-12-15-12-11: coco_CSPDarknet-s_640x640| train: total_epoch[72/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02421134 |loss 4.0538 |conf_loss 1.9228 |cls_loss 0.7103 |iou_loss 1.4207 |num_fg 5.7349 
+2023-12-15-12-14: coco_CSPDarknet-s_640x640| train: total_epoch[72/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02419693 |loss 4.0598 |conf_loss 1.9277 |cls_loss 0.7098 |iou_loss 1.4224 |num_fg 5.7300 
+2023-12-15-12-16: coco_CSPDarknet-s_640x640| train: total_epoch[72/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02418250 |loss 4.0534 |conf_loss 1.9237 |cls_loss 0.7087 |iou_loss 1.4210 |num_fg 5.7352 
+2023-12-15-12-19: coco_CSPDarknet-s_640x640| train: total_epoch[72/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02416805 |loss 4.0551 |conf_loss 1.9243 |cls_loss 0.7090 |iou_loss 1.4218 |num_fg 5.7326 
+2023-12-15-12-22: coco_CSPDarknet-s_640x640| train: total_epoch[72/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02415358 |loss 4.0561 |conf_loss 1.9255 |cls_loss 0.7091 |iou_loss 1.4214 |num_fg 5.7346 
+2023-12-15-12-24: coco_CSPDarknet-s_640x640| train: total_epoch[72/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02413909 |loss 4.0537 |conf_loss 1.9244 |cls_loss 0.7089 |iou_loss 1.4204 |num_fg 5.7346 
+2023-12-15-12-26: train epoch: 72 |loss 4.052150 | conf_loss 1.923368 | cls_loss 0.708970 | iou_loss 1.419813 | num_fg 5.734044 | time 20.366667 | 
+2023-12-15-12-26: epoch 72, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-12-29: coco_CSPDarknet-s_640x640| train: total_epoch[73/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02411323 |loss 4.0519 |conf_loss 1.9215 |cls_loss 0.7077 |iou_loss 1.4227 |num_fg 5.7284 
+2023-12-15-12-32: coco_CSPDarknet-s_640x640| train: total_epoch[73/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02409868 |loss 4.0478 |conf_loss 1.9203 |cls_loss 0.7082 |iou_loss 1.4193 |num_fg 5.7394 
+2023-12-15-12-34: coco_CSPDarknet-s_640x640| train: total_epoch[73/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02408410 |loss 4.0535 |conf_loss 1.9249 |cls_loss 0.7093 |iou_loss 1.4193 |num_fg 5.7454 
+2023-12-15-12-37: coco_CSPDarknet-s_640x640| train: total_epoch[73/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02406950 |loss 4.0535 |conf_loss 1.9238 |cls_loss 0.7092 |iou_loss 1.4204 |num_fg 5.7387 
+2023-12-15-12-39: coco_CSPDarknet-s_640x640| train: total_epoch[73/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02405489 |loss 4.0488 |conf_loss 1.9232 |cls_loss 0.7085 |iou_loss 1.4172 |num_fg 5.7438 
+2023-12-15-12-42: coco_CSPDarknet-s_640x640| train: total_epoch[73/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02404024 |loss 4.0526 |conf_loss 1.9253 |cls_loss 0.7093 |iou_loss 1.4179 |num_fg 5.7399 
+2023-12-15-12-45: coco_CSPDarknet-s_640x640| train: total_epoch[73/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02402558 |loss 4.0525 |conf_loss 1.9252 |cls_loss 0.7093 |iou_loss 1.4180 |num_fg 5.7363 
+2023-12-15-12-46: train epoch: 73 |loss 4.050252 | conf_loss 1.924514 | cls_loss 0.708791 | iou_loss 1.416947 | num_fg 5.739647 | time 20.333333 | 
+2023-12-15-12-46: epoch 73, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-12-49: coco_CSPDarknet-s_640x640| train: total_epoch[74/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02399943 |loss 4.0618 |conf_loss 1.9314 |cls_loss 0.7082 |iou_loss 1.4222 |num_fg 5.7268 
+2023-12-15-12-52: coco_CSPDarknet-s_640x640| train: total_epoch[74/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02398471 |loss 4.0584 |conf_loss 1.9289 |cls_loss 0.7100 |iou_loss 1.4195 |num_fg 5.7362 
+2023-12-15-12-55: coco_CSPDarknet-s_640x640| train: total_epoch[74/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02396996 |loss 4.0498 |conf_loss 1.9241 |cls_loss 0.7090 |iou_loss 1.4168 |num_fg 5.7438 
+2023-12-15-12-57: coco_CSPDarknet-s_640x640| train: total_epoch[74/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02395520 |loss 4.0490 |conf_loss 1.9237 |cls_loss 0.7079 |iou_loss 1.4173 |num_fg 5.7410 
+2023-12-15-13-00: coco_CSPDarknet-s_640x640| train: total_epoch[74/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02394041 |loss 4.0476 |conf_loss 1.9217 |cls_loss 0.7084 |iou_loss 1.4175 |num_fg 5.7419 
+2023-12-15-13-02: coco_CSPDarknet-s_640x640| train: total_epoch[74/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02392561 |loss 4.0457 |conf_loss 1.9210 |cls_loss 0.7081 |iou_loss 1.4167 |num_fg 5.7440 
+2023-12-15-13-05: coco_CSPDarknet-s_640x640| train: total_epoch[74/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02391078 |loss 4.0463 |conf_loss 1.9211 |cls_loss 0.7086 |iou_loss 1.4166 |num_fg 5.7429 
+2023-12-15-13-07: train epoch: 74 |loss 4.046835 | conf_loss 1.922682 | cls_loss 0.708343 | iou_loss 1.415810 | num_fg 5.745833 | time 20.400000 | 
+2023-12-15-13-07: epoch 74, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-13-10: coco_CSPDarknet-s_640x640| train: total_epoch[75/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02388433 |loss 4.0373 |conf_loss 1.9124 |cls_loss 0.7083 |iou_loss 1.4166 |num_fg 5.7482 
+2023-12-15-13-12: coco_CSPDarknet-s_640x640| train: total_epoch[75/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02386944 |loss 4.0415 |conf_loss 1.9149 |cls_loss 0.7085 |iou_loss 1.4181 |num_fg 5.7471 
+2023-12-15-13-15: coco_CSPDarknet-s_640x640| train: total_epoch[75/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02385453 |loss 4.0418 |conf_loss 1.9158 |cls_loss 0.7086 |iou_loss 1.4173 |num_fg 5.7431 
+2023-12-15-13-17: coco_CSPDarknet-s_640x640| train: total_epoch[75/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02383960 |loss 4.0451 |conf_loss 1.9188 |cls_loss 0.7088 |iou_loss 1.4175 |num_fg 5.7417 
+2023-12-15-13-19: coco_CSPDarknet-s_640x640| train: total_epoch[75/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02382465 |loss 4.0428 |conf_loss 1.9180 |cls_loss 0.7083 |iou_loss 1.4165 |num_fg 5.7417 
+2023-12-15-13-21: coco_CSPDarknet-s_640x640| train: total_epoch[75/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02380968 |loss 4.0460 |conf_loss 1.9187 |cls_loss 0.7093 |iou_loss 1.4180 |num_fg 5.7365 
+2023-12-15-13-24: coco_CSPDarknet-s_640x640| train: total_epoch[75/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02379469 |loss 4.0448 |conf_loss 1.9190 |cls_loss 0.7087 |iou_loss 1.4171 |num_fg 5.7393 
+2023-12-15-13-25: train epoch: 75 |loss 4.044933 | conf_loss 1.919051 | cls_loss 0.708810 | iou_loss 1.417072 | num_fg 5.737618 | time 18.333333 | 
+2023-12-15-13-25: epoch 75, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-13-28: coco_CSPDarknet-s_640x640| train: total_epoch[76/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02376795 |loss 4.0359 |conf_loss 1.9129 |cls_loss 0.7066 |iou_loss 1.4164 |num_fg 5.7321 
+2023-12-15-13-30: coco_CSPDarknet-s_640x640| train: total_epoch[76/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02375289 |loss 4.0409 |conf_loss 1.9172 |cls_loss 0.7086 |iou_loss 1.4152 |num_fg 5.7358 
+2023-12-15-13-32: coco_CSPDarknet-s_640x640| train: total_epoch[76/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02373782 |loss 4.0419 |conf_loss 1.9168 |cls_loss 0.7089 |iou_loss 1.4161 |num_fg 5.7391 
+2023-12-15-13-34: coco_CSPDarknet-s_640x640| train: total_epoch[76/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02372273 |loss 4.0362 |conf_loss 1.9135 |cls_loss 0.7085 |iou_loss 1.4142 |num_fg 5.7441 
+2023-12-15-13-37: coco_CSPDarknet-s_640x640| train: total_epoch[76/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02370762 |loss 4.0395 |conf_loss 1.9161 |cls_loss 0.7081 |iou_loss 1.4153 |num_fg 5.7406 
+2023-12-15-13-39: coco_CSPDarknet-s_640x640| train: total_epoch[76/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02369248 |loss 4.0348 |conf_loss 1.9126 |cls_loss 0.7070 |iou_loss 1.4152 |num_fg 5.7429 
+2023-12-15-13-41: coco_CSPDarknet-s_640x640| train: total_epoch[76/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02367733 |loss 4.0331 |conf_loss 1.9120 |cls_loss 0.7070 |iou_loss 1.4141 |num_fg 5.7451 
+2023-12-15-13-43: train epoch: 76 |loss 4.035833 | conf_loss 1.913820 | cls_loss 0.707322 | iou_loss 1.414691 | num_fg 5.743603 | time 17.266667 | 
+2023-12-15-13-43: epoch 76, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-13-45: coco_CSPDarknet-s_640x640| train: total_epoch[77/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02365030 |loss 4.0284 |conf_loss 1.9102 |cls_loss 0.7077 |iou_loss 1.4105 |num_fg 5.7613 
+2023-12-15-13-47: coco_CSPDarknet-s_640x640| train: total_epoch[77/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02363508 |loss 4.0319 |conf_loss 1.9145 |cls_loss 0.7066 |iou_loss 1.4107 |num_fg 5.7616 
+2023-12-15-13-50: coco_CSPDarknet-s_640x640| train: total_epoch[77/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02361985 |loss 4.0287 |conf_loss 1.9103 |cls_loss 0.7068 |iou_loss 1.4116 |num_fg 5.7560 
+2023-12-15-13-52: coco_CSPDarknet-s_640x640| train: total_epoch[77/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02360460 |loss 4.0299 |conf_loss 1.9112 |cls_loss 0.7064 |iou_loss 1.4123 |num_fg 5.7527 
+2023-12-15-13-54: coco_CSPDarknet-s_640x640| train: total_epoch[77/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02358932 |loss 4.0307 |conf_loss 1.9125 |cls_loss 0.7061 |iou_loss 1.4120 |num_fg 5.7500 
+2023-12-15-13-56: coco_CSPDarknet-s_640x640| train: total_epoch[77/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02357403 |loss 4.0340 |conf_loss 1.9145 |cls_loss 0.7063 |iou_loss 1.4132 |num_fg 5.7467 
+2023-12-15-13-58: coco_CSPDarknet-s_640x640| train: total_epoch[77/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02355871 |loss 4.0318 |conf_loss 1.9128 |cls_loss 0.7062 |iou_loss 1.4127 |num_fg 5.7490 
+2023-12-15-14-00: train epoch: 77 |loss 4.029834 | conf_loss 1.911261 | cls_loss 0.705990 | iou_loss 1.412583 | num_fg 5.748062 | time 17.266667 | 
+2023-12-15-14-00: epoch 77, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-14-02: coco_CSPDarknet-s_640x640| train: total_epoch[78/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02353140 |loss 4.0305 |conf_loss 1.9151 |cls_loss 0.7043 |iou_loss 1.4112 |num_fg 5.7677 
+2023-12-15-14-05: coco_CSPDarknet-s_640x640| train: total_epoch[78/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02351603 |loss 4.0214 |conf_loss 1.9080 |cls_loss 0.7024 |iou_loss 1.4110 |num_fg 5.7645 
+2023-12-15-14-07: coco_CSPDarknet-s_640x640| train: total_epoch[78/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02350064 |loss 4.0253 |conf_loss 1.9097 |cls_loss 0.7040 |iou_loss 1.4116 |num_fg 5.7563 
+2023-12-15-14-09: coco_CSPDarknet-s_640x640| train: total_epoch[78/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02348522 |loss 4.0261 |conf_loss 1.9093 |cls_loss 0.7046 |iou_loss 1.4122 |num_fg 5.7504 
+2023-12-15-14-11: coco_CSPDarknet-s_640x640| train: total_epoch[78/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02346979 |loss 4.0288 |conf_loss 1.9107 |cls_loss 0.7052 |iou_loss 1.4129 |num_fg 5.7499 
+2023-12-15-14-13: coco_CSPDarknet-s_640x640| train: total_epoch[78/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02345434 |loss 4.0262 |conf_loss 1.9092 |cls_loss 0.7052 |iou_loss 1.4119 |num_fg 5.7542 
+2023-12-15-14-16: coco_CSPDarknet-s_640x640| train: total_epoch[78/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02343886 |loss 4.0232 |conf_loss 1.9074 |cls_loss 0.7046 |iou_loss 1.4112 |num_fg 5.7560 
+2023-12-15-14-18: train epoch: 78 |loss 4.026523 | conf_loss 1.909229 | cls_loss 0.705487 | iou_loss 1.411807 | num_fg 5.755202 | time 17.800000 | 
+2023-12-15-14-18: epoch 78, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-14-21: coco_CSPDarknet-s_640x640| train: total_epoch[79/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02341127 |loss 4.0177 |conf_loss 1.9085 |cls_loss 0.7030 |iou_loss 1.4061 |num_fg 5.7596 
+2023-12-15-14-23: coco_CSPDarknet-s_640x640| train: total_epoch[79/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02339574 |loss 4.0270 |conf_loss 1.9094 |cls_loss 0.7059 |iou_loss 1.4117 |num_fg 5.7545 
+2023-12-15-14-26: coco_CSPDarknet-s_640x640| train: total_epoch[79/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02338019 |loss 4.0208 |conf_loss 1.9087 |cls_loss 0.7046 |iou_loss 1.4074 |num_fg 5.7611 
+2023-12-15-14-28: coco_CSPDarknet-s_640x640| train: total_epoch[79/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02336463 |loss 4.0269 |conf_loss 1.9127 |cls_loss 0.7053 |iou_loss 1.4089 |num_fg 5.7546 
+2023-12-15-14-31: coco_CSPDarknet-s_640x640| train: total_epoch[79/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02334904 |loss 4.0295 |conf_loss 1.9129 |cls_loss 0.7057 |iou_loss 1.4109 |num_fg 5.7520 
+2023-12-15-14-33: coco_CSPDarknet-s_640x640| train: total_epoch[79/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02333343 |loss 4.0283 |conf_loss 1.9115 |cls_loss 0.7058 |iou_loss 1.4110 |num_fg 5.7538 
+2023-12-15-14-36: coco_CSPDarknet-s_640x640| train: total_epoch[79/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02331780 |loss 4.0252 |conf_loss 1.9096 |cls_loss 0.7053 |iou_loss 1.4103 |num_fg 5.7542 
+2023-12-15-14-38: train epoch: 79 |loss 4.023223 | conf_loss 1.908368 | cls_loss 0.704887 | iou_loss 1.409967 | num_fg 5.754007 | time 20.416667 | 
+2023-12-15-14-38: epoch 79, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-14-41: coco_CSPDarknet-s_640x640| train: total_epoch[80/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02328993 |loss 4.0399 |conf_loss 1.9130 |cls_loss 0.7100 |iou_loss 1.4170 |num_fg 5.7404 
+2023-12-15-14-44: coco_CSPDarknet-s_640x640| train: total_epoch[80/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02327424 |loss 4.0384 |conf_loss 1.9170 |cls_loss 0.7082 |iou_loss 1.4133 |num_fg 5.7483 
+2023-12-15-14-46: coco_CSPDarknet-s_640x640| train: total_epoch[80/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02325854 |loss 4.0313 |conf_loss 1.9149 |cls_loss 0.7062 |iou_loss 1.4102 |num_fg 5.7460 
+2023-12-15-14-49: coco_CSPDarknet-s_640x640| train: total_epoch[80/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02324282 |loss 4.0211 |conf_loss 1.9082 |cls_loss 0.7052 |iou_loss 1.4077 |num_fg 5.7514 
+2023-12-15-14-51: coco_CSPDarknet-s_640x640| train: total_epoch[80/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02322707 |loss 4.0172 |conf_loss 1.9054 |cls_loss 0.7048 |iou_loss 1.4071 |num_fg 5.7547 
+2023-12-15-14-54: coco_CSPDarknet-s_640x640| train: total_epoch[80/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02321131 |loss 4.0190 |conf_loss 1.9062 |cls_loss 0.7051 |iou_loss 1.4077 |num_fg 5.7524 
+2023-12-15-14-57: coco_CSPDarknet-s_640x640| train: total_epoch[80/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02319553 |loss 4.0202 |conf_loss 1.9069 |cls_loss 0.7054 |iou_loss 1.4079 |num_fg 5.7512 
+2023-12-15-14-59: train epoch: 80 |loss 4.020823 | conf_loss 1.907845 | cls_loss 0.705448 | iou_loss 1.407531 | num_fg 5.753655 | time 20.516667 | 
+2023-12-15-14-59: ----------epoch 80 start evaluate----------
+2023-12-15-15-00: coco_CSPDarknet-s_640x640| val: total_epoch[80/300] batch[50/406] |size: 180x3x416x416 |lr: 0.02318320 |loss 3.2850 |conf_loss 1.5356 |cls_loss 0.5743 |iou_loss 1.1752 |num_fg 6.3946 
+2023-12-15-15-02: coco_CSPDarknet-s_640x640| val: total_epoch[80/300] batch[100/406] |size: 180x3x416x416 |lr: 0.02318320 |loss 3.2898 |conf_loss 1.5391 |cls_loss 0.5745 |iou_loss 1.1762 |num_fg 6.4070 
+2023-12-15-15-03: coco_CSPDarknet-s_640x640| val: total_epoch[80/300] batch[150/406] |size: 180x3x416x416 |lr: 0.02318320 |loss 3.2941 |conf_loss 1.5423 |cls_loss 0.5749 |iou_loss 1.1770 |num_fg 6.4026 
+2023-12-15-15-04: coco_CSPDarknet-s_640x640| val: total_epoch[80/300] batch[200/406] |size: 180x3x416x416 |lr: 0.02318320 |loss 3.2958 |conf_loss 1.5438 |cls_loss 0.5745 |iou_loss 1.1774 |num_fg 6.3979 
+2023-12-15-15-05: coco_CSPDarknet-s_640x640| val: total_epoch[80/300] batch[250/406] |size: 180x3x416x416 |lr: 0.02318320 |loss 3.2988 |conf_loss 1.5442 |cls_loss 0.5751 |iou_loss 1.1794 |num_fg 6.3948 
+2023-12-15-15-06: coco_CSPDarknet-s_640x640| val: total_epoch[80/300] batch[300/406] |size: 180x3x416x416 |lr: 0.02318320 |loss 3.2983 |conf_loss 1.5439 |cls_loss 0.5754 |iou_loss 1.1790 |num_fg 6.3917 
+2023-12-15-15-07: coco_CSPDarknet-s_640x640| val: total_epoch[80/300] batch[350/406] |size: 180x3x416x416 |lr: 0.02318320 |loss 3.2980 |conf_loss 1.5435 |cls_loss 0.5753 |iou_loss 1.1792 |num_fg 6.3921 
+2023-12-15-15-08: coco_CSPDarknet-s_640x640| val: total_epoch[80/300] batch[400/406] |size: 180x3x416x416 |lr: 0.02318320 |loss 3.3006 |conf_loss 1.5443 |cls_loss 0.5756 |iou_loss 1.1806 |num_fg 6.3877 
+2023-12-15-15-09: ----------epoch 80 evaluating ----------
+2023-12-15-15-09: val epoch: 80 |loss 3.301197 | conf_loss 1.545029 | cls_loss 0.575685 | iou_loss 1.180483 | num_fg 6.388103 | time 10.000000 | AP 0.303762 | AP_0.5 0.501706 | AP_0.75 0.315906 | AP_small 0.031062 | AP_medium 0.227779 | AP_large 0.509821 | 
+2023-12-15-15-17: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.304
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.502
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.316
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.031
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.228
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.510
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.229
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.396
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.424
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.082
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.410
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.635
+
+2023-12-15-15-17: epoch 80, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_best.pth
+2023-12-15-15-17: epoch 80, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_80.pth
+2023-12-15-15-17: epoch 80, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-15-20: coco_CSPDarknet-s_640x640| train: total_epoch[81/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02316739 |loss 4.0067 |conf_loss 1.8913 |cls_loss 0.7072 |iou_loss 1.4082 |num_fg 5.7489 
+2023-12-15-15-22: coco_CSPDarknet-s_640x640| train: total_epoch[81/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02315155 |loss 4.0152 |conf_loss 1.8990 |cls_loss 0.7058 |iou_loss 1.4104 |num_fg 5.7521 
+2023-12-15-15-24: coco_CSPDarknet-s_640x640| train: total_epoch[81/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02313569 |loss 4.0143 |conf_loss 1.8995 |cls_loss 0.7048 |iou_loss 1.4100 |num_fg 5.7546 
+2023-12-15-15-26: coco_CSPDarknet-s_640x640| train: total_epoch[81/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02311982 |loss 4.0147 |conf_loss 1.8998 |cls_loss 0.7056 |iou_loss 1.4093 |num_fg 5.7505 
+2023-12-15-15-29: coco_CSPDarknet-s_640x640| train: total_epoch[81/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02310392 |loss 4.0151 |conf_loss 1.9006 |cls_loss 0.7054 |iou_loss 1.4091 |num_fg 5.7524 
+2023-12-15-15-31: coco_CSPDarknet-s_640x640| train: total_epoch[81/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02308801 |loss 4.0144 |conf_loss 1.9001 |cls_loss 0.7053 |iou_loss 1.4090 |num_fg 5.7516 
+2023-12-15-15-33: coco_CSPDarknet-s_640x640| train: total_epoch[81/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02307207 |loss 4.0155 |conf_loss 1.9011 |cls_loss 0.7052 |iou_loss 1.4092 |num_fg 5.7510 
+2023-12-15-15-35: train epoch: 81 |loss 4.018563 | conf_loss 1.903397 | cls_loss 0.705221 | iou_loss 1.409945 | num_fg 5.748735 | time 17.900000 | 
+2023-12-15-15-35: epoch 81, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
+2023-12-15-15-38: coco_CSPDarknet-s_640x640| train: total_epoch[82/300] batch[50/389] |size: 180x3x416x416 |lr: 0.02304367 |loss 4.0097 |conf_loss 1.9035 |cls_loss 0.6997 |iou_loss 1.4065 |num_fg 5.7573 
+2023-12-15-15-40: coco_CSPDarknet-s_640x640| train: total_epoch[82/300] batch[100/389] |size: 180x3x416x416 |lr: 0.02302768 |loss 4.0160 |conf_loss 1.9072 |cls_loss 0.7024 |iou_loss 1.4064 |num_fg 5.7538 
+2023-12-15-15-42: coco_CSPDarknet-s_640x640| train: total_epoch[82/300] batch[150/389] |size: 180x3x416x416 |lr: 0.02301167 |loss 4.0186 |conf_loss 1.9087 |cls_loss 0.7022 |iou_loss 1.4077 |num_fg 5.7532 
+2023-12-15-15-44: coco_CSPDarknet-s_640x640| train: total_epoch[82/300] batch[200/389] |size: 180x3x416x416 |lr: 0.02299565 |loss 4.0201 |conf_loss 1.9098 |cls_loss 0.7027 |iou_loss 1.4077 |num_fg 5.7514 
+2023-12-15-15-47: coco_CSPDarknet-s_640x640| train: total_epoch[82/300] batch[250/389] |size: 180x3x416x416 |lr: 0.02297960 |loss 4.0198 |conf_loss 1.9080 |cls_loss 0.7035 |iou_loss 1.4082 |num_fg 5.7496 
+2023-12-15-15-49: coco_CSPDarknet-s_640x640| train: total_epoch[82/300] batch[300/389] |size: 180x3x416x416 |lr: 0.02296354 |loss 4.0136 |conf_loss 1.9044 |cls_loss 0.7028 |iou_loss 1.4064 |num_fg 5.7549 
+2023-12-15-15-51: coco_CSPDarknet-s_640x640| train: total_epoch[82/300] batch[350/389] |size: 180x3x416x416 |lr: 0.02294745 |loss 4.0139 |conf_loss 1.9046 |cls_loss 0.7030 |iou_loss 1.4062 |num_fg 5.7572 
+2023-12-15-15-52: train epoch: 82 |loss 4.014984 | conf_loss 1.905362 | cls_loss 0.703080 | iou_loss 1.406542 | num_fg 5.758465 | time 17.683333 | 
+2023-12-15-15-52: epoch 82, save weight to /home/cms/YOLOX-NPU/exp/coco_CSPDarknet-s_640x640/model_last.pth
