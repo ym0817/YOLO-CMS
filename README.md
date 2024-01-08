@@ -5,6 +5,9 @@
 算法：
 YOLOX-NPU 
 YOLOv8-main 
+YOLOv8-multi-task
+
+
 
 功能：
 前车远离提醒
