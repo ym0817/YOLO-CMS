@@ -1,5 +1,5 @@
 import torch
-import pdb
+# import
 from ultralytics import YOLO
 
 # modelL = YOLO('/home/huangzm/code/mycode/pytorch/ultralytics/runs/detect/train37/weights/best.pt')
